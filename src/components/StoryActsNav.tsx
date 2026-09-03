@@ -17,10 +17,10 @@ export const StoryActsNav: React.FC<StoryActsNavProps> = ({
   const activeMeta = ACTS.find((a) => a.id === currentAct) || ACTS[0];
 
   return (
-    <div className="w-full border-b border-white/[0.06] bg-obsidian-900/60 backdrop-blur-sm py-3 px-4 sm:px-6 lg:px-8">
+    <div className="w-full border-b border-white/[0.06] bg-obsidian-900/60 backdrop-blur-sm py-2.5 px-4 sm:px-6 lg:px-8">
       <div className="mx-auto max-w-7xl flex flex-col md:flex-row md:items-center justify-between gap-3">
         {/* Act Pills */}
-        <div className="flex items-center gap-2 overflow-x-auto no-scrollbar pb-1 md:pb-0">
+        <div className="flex items-center gap-1.5 sm:gap-2 overflow-x-auto no-scrollbar pb-1 md:pb-0">
           {ACTS.map((act) => {
             const isActive = currentAct === act.id;
             return (
@@ -28,28 +28,28 @@ export const StoryActsNav: React.FC<StoryActsNavProps> = ({
                 key={act.id}
                 type="button"
                 onClick={() => onSelectAct(act.id)}
-                className={`group flex items-center gap-2 px-3.5 py-1.5 rounded-full text-[12px] font-medium transition-all whitespace-nowrap cursor-pointer ${
+                className={`group flex items-center gap-1.5 sm:gap-2 px-3 sm:px-3.5 py-1.5 rounded-full text-[12px] font-medium transition-all whitespace-nowrap cursor-pointer shrink-0 ${
                   isActive
                     ? 'bg-amber-500 text-obsidian-950 font-semibold shadow-cinema-glow'
                     : 'bg-white/[0.04] text-zinc-400 hover:text-white hover:bg-white/[0.08] border border-white/[0.06]'
                 }`}
               >
-                <span className={`text-[10px] font-mono tracking-wider opacity-80 ${isActive ? 'text-obsidian-900 font-bold' : 'text-amber-400'}`}>
+                <span className={`text-[10px] font-mono tracking-wider shrink-0 ${isActive ? 'text-obsidian-900 font-bold' : 'text-amber-400'}`}>
                   {act.actNumber}
                 </span>
-                <span>{act.nameZh}</span>
+                <span className="whitespace-nowrap">{act.nameZh}</span>
               </button>
             );
           })}
         </div>
 
         {/* Narrative Context & Scene Count */}
-        <div className="flex items-center justify-between md:justify-end gap-3 text-[12px] text-zinc-400">
-          <div className="flex items-center gap-1.5">
-            <Compass className="size-3.5 text-amber-500 opacity-80" />
-            <span className="hidden sm:inline text-zinc-300 font-medium">{activeMeta.desc}</span>
+        <div className="flex items-center justify-between md:justify-end gap-3 text-[12px] text-zinc-400 shrink-0">
+          <div className="flex items-center gap-1.5 whitespace-nowrap shrink-0">
+            <Compass className="size-3.5 text-amber-500 opacity-80 shrink-0" />
+            <span className="hidden sm:inline text-zinc-300 font-medium whitespace-nowrap">{activeMeta.desc}</span>
           </div>
-          <span className="font-mono text-[11px] px-2 py-0.5 rounded bg-white/[0.05] border border-white/[0.08] text-zinc-300">
+          <span className="font-mono text-[11px] px-2 py-0.5 rounded bg-white/[0.05] border border-white/[0.08] text-zinc-300 whitespace-nowrap shrink-0">
             {filteredCount} SCENES
           </span>
         </div>
