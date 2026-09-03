@@ -31,7 +31,7 @@ export const SkillsView: React.FC = () => {
           <div>
             <h1 className="text-[18px] sm:text-[20px] font-semibold tracking-tight text-white flex items-center gap-2">
               <Terminal className="size-5 text-amber-400" />
-              <span>剧本指令 · Agent Skills</span>
+              <span>UI 技能 · Interface Skills</span>
             </h1>
             <p className="text-[12px] text-zinc-400 mt-0.5">
               收录 {totalSkills} 项面向 AI Agent 与独立全栈开发者的专业级界面工程指令规范

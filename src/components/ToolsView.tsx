@@ -45,7 +45,7 @@ export const ToolsView: React.FC = () => {
           <div>
             <h1 className="text-[18px] sm:text-[20px] font-semibold tracking-tight text-white flex items-center gap-2">
               <Wrench className="size-5 text-amber-400" />
-              <span>精选器材 · Gear & Tools</span>
+              <span>设计利器 · Design Tools</span>
             </h1>
             <p className="text-[12px] text-zinc-400 mt-0.5">
               收录 {totalTools} 款经岛主亲测的高效设计、动效与构建利器

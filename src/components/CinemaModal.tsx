@@ -157,9 +157,9 @@ export const CinemaModal: React.FC<CinemaModalProps> = ({
           <div className="flex items-center justify-between p-5 border-b border-white/[0.08]">
             <div className="flex items-center gap-2 font-mono text-[12px]">
               <Clapperboard className="size-4 text-amber-400" />
-              <span className="text-amber-400 font-bold">TAKE #{formattedTake}</span>
-              <span className="text-zinc-600">|</span>
-              <span className="text-zinc-400 uppercase">{post.act}</span>
+              <span className="text-amber-400 font-bold">#{formattedTake}</span>
+              <span className="text-zinc-600">·</span>
+              <span className="text-zinc-300 font-sans font-medium text-[12px]">{post.category}</span>
             </div>
 
             <div className="flex items-center gap-2">

@@ -4,50 +4,50 @@ export const ACTS: ActMeta[] = [
   {
     id: 'all',
     actNumber: 'ALL',
-    nameZh: '全部镜头',
-    nameEn: 'Complete Reel',
-    desc: '全库 478 个精选交互分镜全览'
+    nameZh: '全部设计',
+    nameEn: 'All Design',
+    desc: '全库 478 个精选交互与微动效案例全览'
   },
   {
     id: 'act1',
     actNumber: 'ACT I',
-    nameZh: '开场与仪式',
+    nameZh: '引导仪式 · Onboarding',
     nameEn: 'Onboarding & Rituals',
-    desc: '入场体验、身份确立、签名与契约式交互'
+    desc: '入场引导、身份确立、签名与契约式交互'
   },
   {
     id: 'act2',
     actNumber: 'ACT II',
-    nameZh: '交互微爽点',
-    nameEn: 'Micro-Delights & Climax',
+    nameZh: '微动爽点 · Micro-Motion',
+    nameEn: 'Micro-Motion & Feedback',
     desc: '物理碰撞、弹性缓动、微状态机与触觉反馈'
   },
   {
     id: 'act3',
     actNumber: 'ACT III',
-    nameZh: '空间与意图',
-    nameEn: 'Spatial & Canvas',
+    nameZh: '空间意图 · 3D & Spatial',
+    nameEn: '3D & Spatial Canvas',
     desc: '3D 纵深、着色器流体、无界画布与沉浸视差'
   },
   {
     id: 'act4',
     actNumber: 'ACT IV',
-    nameZh: '人机共创',
-    nameEn: 'Native AI & Dialogue',
-    desc: 'Agent 状态球、呼吸态光晕、多模态交互新范式'
+    nameZh: '人机共创 · AI Native',
+    nameEn: 'AI Native & Agents',
+    desc: 'Agent 状态球、呼吸态光晕、多模态对话新范式'
   },
   {
     id: 'act5',
     actNumber: 'ACT V',
-    nameZh: '品牌与烙印',
-    nameEn: 'Identity & Aesthetics',
+    nameZh: '品牌烙印 · Branding',
+    nameEn: 'Branding & Typography',
     desc: '字体叙事、海报级排印、图形美学与视觉骨相'
   }
 ];
 
 export const daozhuConfig = {
   name: "岛主",
-  title: "岛主分镜台 · Daozhu's Cut",
+  title: "岛主设计分镜 · Daozhu's Design Cut",
   slogan: "设计是交互的分镜，微动效是产品的潜台词",
   subtitle: "十年编剧转产品经理 · 用故事思维解构顶尖数字美学",
   bioZh: "干过十年编剧，后来转做产品经理。擅长用故事思维驱动各种「杂七杂八」的产品与数字美学探索。在看似分散的代码与动效中，寻找打动人心的戏剧张力与商业支点。",
