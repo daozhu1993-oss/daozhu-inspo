@@ -113,6 +113,26 @@ export function App() {
       {/* Main Content Areas */}
       {currentTab === 'storyboards' && (
         <main className="flex-1 flex flex-col pb-24">
+          {/* Cinematic Hero Manifesto Banner */}
+          <section className="relative w-full border-b border-white/[0.06] bg-gradient-to-b from-obsidian-900/70 via-obsidian-950/40 to-transparent py-7 sm:py-9 px-4 sm:px-6 lg:px-8 text-center overflow-hidden">
+            <div className="pointer-events-none absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 size-80 rounded-full bg-amber-500/[0.05] blur-3xl" />
+
+            <div className="mx-auto max-w-3xl space-y-2.5 relative z-10">
+              <div className="inline-flex items-center gap-1.5 px-3 py-0.5 rounded-full bg-amber-500/10 border border-amber-500/25 text-amber-400 text-[11px] font-mono">
+                <span className="size-1.5 rounded-full bg-amber-400 animate-pulse" />
+                <span>策展手记 · Curated by 岛主</span>
+              </div>
+
+              <h1 className="text-[18px] sm:text-[22px] md:text-[26px] font-bold tracking-tight text-white font-display">
+                “设计是交互的分镜，微动效是产品的潜台词”
+              </h1>
+
+              <p className="text-[12px] sm:text-[13px] text-zinc-400 max-w-xl mx-auto leading-relaxed">
+                十年编剧转产品经理。以故事思维与心理预期，解构全球顶尖数字界面的交互分镜与商业转化支点。
+              </p>
+            </div>
+          </section>
+
           {/* Story Acts Timeline Navigator */}
           <StoryActsNav
             currentAct={currentAct}

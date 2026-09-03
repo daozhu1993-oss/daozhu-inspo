@@ -57,6 +57,9 @@ export const ScreeningHeader: React.FC<ScreeningHeaderProps> = ({
                   Design Cut
                 </span>
               </div>
+              <p className="hidden 2xl:block text-[10.5px] text-zinc-400 font-normal">
+                设计是交互的分镜，微动效是产品的潜台词
+              </p>
             </div>
           </button>
 
