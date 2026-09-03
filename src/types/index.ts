@@ -1,3 +1,20 @@
+export type ActId = 'all' | 'act1' | 'act2' | 'act3' | 'act4' | 'act5';
+
+export interface ActMeta {
+  id: ActId;
+  actNumber: string;
+  nameZh: string;
+  nameEn: string;
+  desc: string;
+}
+
+export interface SceneBreakdown {
+  objective: string;
+  friction: string;
+  solution: string;
+  soWhat: string;
+}
+
 export interface MediaItem {
   type: 'image' | 'video';
   src: string;
@@ -26,6 +43,11 @@ export interface Post {
   aspectH: number;
   slides?: number | null;
   media: MediaItem[];
+  // Narrative Storyboard extensions
+  takeNumber: number;
+  act: 'act1' | 'act2' | 'act3' | 'act4' | 'act5';
+  subtext: string;
+  breakdown: SceneBreakdown;
 }
 
 export interface ToolItem {
@@ -52,6 +74,4 @@ export interface SkillCategory {
   items: SkillItem[];
 }
 
-export type SectionType = 'design' | 'tools' | 'skills';
-
-export type CategoryFilter = 'All' | 'Product' | 'Motion' | '3D' | 'Web' | 'Branding';
+export type ViewTab = 'storyboards' | 'tools' | 'skills';
