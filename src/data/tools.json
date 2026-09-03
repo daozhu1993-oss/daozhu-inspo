@@ -1,0 +1,497 @@
+[
+  {
+    "name": "Interface",
+    "items": [
+      {
+        "name": "Figma",
+        "url": "https://figma.com/",
+        "blurb": "The default canvas for product design."
+      },
+      {
+        "name": "Framer",
+        "url": "https://www.framer.com/",
+        "blurb": "Design and ship the actual site."
+      },
+      {
+        "name": "Rive",
+        "url": "https://rive.app/",
+        "blurb": "Interactive motion that ships in product."
+      },
+      {
+        "name": "Paper",
+        "url": "https://paper.design/",
+        "blurb": "A calmer canvas for interface work."
+      },
+      {
+        "name": "Penpot",
+        "url": "https://penpot.app/",
+        "blurb": "Open-source design, close to the code."
+      },
+      {
+        "name": "Stitch",
+        "url": "https://stitch.withgoogle.com/",
+        "blurb": "Google’s AI UI generator."
+      }
+    ]
+  },
+  {
+    "name": "Components",
+    "items": [
+      {
+        "name": "shadcn/ui",
+        "url": "https://ui.shadcn.com/",
+        "blurb": "Copy-paste components you actually own."
+      },
+      {
+        "name": "21st.dev",
+        "url": "https://21st.dev/",
+        "blurb": "A living directory of modern UI blocks."
+      },
+      {
+        "name": "Component Gallery",
+        "url": "https://component.gallery/",
+        "blurb": "How real systems name and shape UI."
+      },
+      {
+        "name": "Motion Primitives",
+        "url": "https://motion-primitives.com/",
+        "blurb": "Tasteful motion patterns for the web."
+      },
+      {
+        "name": "React Bits",
+        "url": "https://www.reactbits.dev/",
+        "blurb": "Animated React components with source."
+      },
+      {
+        "name": "Fancy Components",
+        "url": "https://www.fancycomponents.dev/",
+        "blurb": "Showier UI pieces, ready to fork."
+      },
+      {
+        "name": "Cursify",
+        "url": "https://cursify.vercel.app/",
+        "blurb": "Custom cursors without the kitsch."
+      },
+      {
+        "name": "NumberFlow",
+        "url": "https://number-flow.barvian.me/",
+        "blurb": "Numbers that animate like they mean it."
+      },
+      {
+        "name": "Framer University",
+        "url": "https://framer.university/resources",
+        "blurb": "Components and lessons for Framer."
+      }
+    ]
+  },
+  {
+    "name": "Motion",
+    "items": [
+      {
+        "name": "Jitter",
+        "url": "https://jitter.video/",
+        "blurb": "Motion design in the browser."
+      },
+      {
+        "name": "Lottie Creator",
+        "url": "https://lottiefiles.com/lottie-creator",
+        "blurb": "Lightweight animation for product UI."
+      },
+      {
+        "name": "Lottielab",
+        "url": "https://www.lottielab.com/",
+        "blurb": "A modern editor for Lottie."
+      },
+      {
+        "name": "Cavalry",
+        "url": "https://cavalry.scenegroup.co/",
+        "blurb": "Procedural motion for serious work."
+      },
+      {
+        "name": "Theatre.js",
+        "url": "https://www.theatrejs.com/",
+        "blurb": "A timeline for interactive motion."
+      },
+      {
+        "name": "Unicorn.studio",
+        "url": "https://www.unicorn.studio/",
+        "blurb": "WebGL scenes without a graphics degree."
+      }
+    ]
+  },
+  {
+    "name": "Type",
+    "items": [
+      {
+        "name": "Fontshare",
+        "url": "https://www.fontshare.com/",
+        "blurb": "Quality free fonts from Indian Type Foundry."
+      },
+      {
+        "name": "Fonts In Use",
+        "url": "https://fontsinuse.com/",
+        "blurb": "Type in the real world, not the specimen."
+      },
+      {
+        "name": "Free Faces",
+        "url": "https://www.freefaces.gallery/",
+        "blurb": "A gallery of free type with taste."
+      },
+      {
+        "name": "UNCUT",
+        "url": "https://uncut.wtf/",
+        "blurb": "Independent type, often free to try."
+      },
+      {
+        "name": "Best Free Fonts",
+        "url": "https://bestfreefonts.com/",
+        "blurb": "A cleaned-up index of free faces."
+      }
+    ]
+  },
+  {
+    "name": "Craft",
+    "items": [
+      {
+        "name": "OKLCH Color Picker",
+        "url": "https://oklch.com/",
+        "blurb": "Perceptual color, the way it should work."
+      },
+      {
+        "name": "Color.review",
+        "url": "https://color.review/",
+        "blurb": "Check contrast without the spreadsheet."
+      },
+      {
+        "name": "Easing Functions",
+        "url": "https://easings.net/",
+        "blurb": "The easing curves everyone should know."
+      },
+      {
+        "name": "Easing Editor",
+        "url": "https://animejs.com/easing-editor",
+        "blurb": "Tune a curve, steal the CSS."
+      },
+      {
+        "name": "Easing Gradients",
+        "url": "https://larsenwork.com/easing-gradients/",
+        "blurb": "Gradients that don’t band or die."
+      },
+      {
+        "name": "SVGOMG",
+        "url": "https://jakearchibald.github.io/svgomg/",
+        "blurb": "Clean up SVGs before they ship."
+      },
+      {
+        "name": "Ray.so",
+        "url": "https://ray.so/",
+        "blurb": "Beautiful code screenshots in a click."
+      },
+      {
+        "name": "ui.camera",
+        "url": "https://ui.camera/",
+        "blurb": "Record interface videos that look native."
+      },
+      {
+        "name": "RegExr",
+        "url": "https://regexr.com/",
+        "blurb": "Regex you can actually see."
+      }
+    ]
+  },
+  {
+    "name": "Visual",
+    "items": [
+      {
+        "name": "ShaderToy",
+        "url": "https://www.shadertoy.com/",
+        "blurb": "The playground for fragment shaders."
+      },
+      {
+        "name": "TouchDesigner",
+        "url": "https://derivative.ca/",
+        "blurb": "Node-based visuals for installations."
+      },
+      {
+        "name": "cables",
+        "url": "https://cables.gl/",
+        "blurb": "WebGL patches in the browser."
+      },
+      {
+        "name": "Nodes",
+        "url": "https://nodes.io/",
+        "blurb": "A node environment for creative tools."
+      },
+      {
+        "name": "NodeToy",
+        "url": "https://nodetoy.co/",
+        "blurb": "Shader graphs without writing GLSL."
+      },
+      {
+        "name": "Bitspace",
+        "url": "https://bitspace.sh/",
+        "blurb": "A space for generative sketches."
+      }
+    ]
+  },
+  {
+    "name": "3D",
+    "items": [
+      {
+        "name": "Spline",
+        "url": "https://spline.design/",
+        "blurb": "3D that’s friendly enough for product work."
+      },
+      {
+        "name": "Blender",
+        "url": "https://www.blender.org/",
+        "blurb": "The open 3D suite. Still unbeatable."
+      },
+      {
+        "name": "Bezi",
+        "url": "https://www.bezi.com/",
+        "blurb": "Collaborative 3D for product teams."
+      },
+      {
+        "name": "Womp",
+        "url": "https://womp.com/",
+        "blurb": "Sculpt 3D in the browser."
+      },
+      {
+        "name": "Houdini",
+        "url": "https://www.sidefx.com/",
+        "blurb": "Procedural 3D when you need the real thing."
+      },
+      {
+        "name": "Luma AI",
+        "url": "https://lumalabs.ai/interactive-scenes",
+        "blurb": "Capture a place, get a scene."
+      },
+      {
+        "name": "Polycam",
+        "url": "https://poly.cam/",
+        "blurb": "LiDAR and photogrammetry on your phone."
+      },
+      {
+        "name": "SuperSplat",
+        "url": "https://superspl.at/editor",
+        "blurb": "Edit Gaussian splats in the browser."
+      },
+      {
+        "name": "Needle Viewer",
+        "url": "https://viewer.needle.tools/",
+        "blurb": "Drop in a glTF, see it instantly."
+      },
+      {
+        "name": "gltfjsx",
+        "url": "https://github.com/pmndrs/gltfjsx",
+        "blurb": "Turn glTF into React Three Fiber."
+      }
+    ]
+  },
+  {
+    "name": "Build",
+    "items": [
+      {
+        "name": "Cursor",
+        "url": "https://www.cursor.com/",
+        "blurb": "The editor most design engineers open."
+      },
+      {
+        "name": "v0",
+        "url": "https://v0.dev/",
+        "blurb": "Prompt a UI, get React you can ship."
+      },
+      {
+        "name": "Claude Code",
+        "url": "https://claude.com/product/claude-code",
+        "blurb": "Agentic coding in the terminal."
+      },
+      {
+        "name": "Bolt.new",
+        "url": "https://bolt.new/",
+        "blurb": "Full-stack apps from a prompt."
+      },
+      {
+        "name": "Cline",
+        "url": "https://cline.bot/",
+        "blurb": "An autonomous coding agent in your IDE."
+      },
+      {
+        "name": "OpenAI Codex",
+        "url": "https://openai.com/codex/",
+        "blurb": "OpenAI’s coding agent."
+      },
+      {
+        "name": "Devin Desktop",
+        "url": "https://devin.ai/desktop",
+        "blurb": "The agentic IDE formerly known as Windsurf."
+      },
+      {
+        "name": "Zed",
+        "url": "https://zed.dev/agentic",
+        "blurb": "A fast editor with agents built in."
+      },
+      {
+        "name": "Skills",
+        "url": "https://skills.sh/",
+        "blurb": "Reusable agent skills, shareable."
+      }
+    ]
+  },
+  {
+    "name": "Capture",
+    "items": [
+      {
+        "name": "Screen Studio",
+        "url": "https://screen.studio/",
+        "blurb": "Product videos with almost no timeline."
+      },
+      {
+        "name": "Recordly",
+        "url": "https://recordly.dev/",
+        "blurb": "Quick captures for shipping demos."
+      },
+      {
+        "name": "OBS Studio",
+        "url": "https://obsproject.com/",
+        "blurb": "The open recorder everyone still uses."
+      },
+      {
+        "name": "ShareX",
+        "url": "https://getsharex.com/",
+        "blurb": "Screenshots, GIFs, and upload in one hit."
+      },
+      {
+        "name": "DaVinci Resolve",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+        "blurb": "Color and cut, free and serious."
+      },
+      {
+        "name": "OpenCut",
+        "url": "https://opencut.app/",
+        "blurb": "A simple open-source video editor."
+      },
+      {
+        "name": "LosslessCut",
+        "url": "https://mifi.no/losslesscut/",
+        "blurb": "Trim video without re-encoding."
+      },
+      {
+        "name": "Parsec",
+        "url": "https://parsec.app/",
+        "blurb": "Low-latency desktop streaming."
+      }
+    ]
+  },
+  {
+    "name": "Workspace",
+    "items": [
+      {
+        "name": "Raycast",
+        "url": "https://www.raycast.com/",
+        "blurb": "The launcher that replaces half your stack."
+      },
+      {
+        "name": "Linear",
+        "url": "https://linear.app/",
+        "blurb": "Issue tracking that feels like a product."
+      },
+      {
+        "name": "Eagle",
+        "url": "https://en.eagle.cool/",
+        "blurb": "A library for screenshots and references."
+      },
+      {
+        "name": "Are.na",
+        "url": "https://www.are.na/",
+        "blurb": "Slow, considered visual collecting."
+      },
+      {
+        "name": "Obsidian",
+        "url": "https://obsidian.md/",
+        "blurb": "Local notes that compound."
+      },
+      {
+        "name": "AFFiNE",
+        "url": "https://affine.pro/",
+        "blurb": "Docs and canvas in one place."
+      },
+      {
+        "name": "Excalidraw",
+        "url": "https://excalidraw.com/",
+        "blurb": "Hand-drawn diagrams that stay out of the way."
+      },
+      {
+        "name": "tldraw",
+        "url": "https://www.tldraw.com/",
+        "blurb": "A canvas SDK that feels native on the web."
+      },
+      {
+        "name": "FigJam",
+        "url": "https://www.figma.com/figjam/",
+        "blurb": "Whiteboarding next to the file."
+      },
+      {
+        "name": "Miro",
+        "url": "https://miro.com/",
+        "blurb": "The workshop board teams already know."
+      },
+      {
+        "name": "Muse",
+        "url": "https://museapp.com/",
+        "blurb": "Spatial notes for thinking on iPad."
+      },
+      {
+        "name": "Claude Cowork",
+        "url": "https://claude.com/product/cowork",
+        "blurb": "Claude sitting on your local files."
+      },
+      {
+        "name": "Granola",
+        "url": "https://www.granola.ai/",
+        "blurb": "Meeting notes that don’t fight you."
+      },
+      {
+        "name": "Warp",
+        "url": "https://www.warp.dev/",
+        "blurb": "A terminal with a modern editor brain."
+      },
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "blurb": "Voice to text that keeps your tone."
+      },
+      {
+        "name": "LocalSend",
+        "url": "https://localsend.org/",
+        "blurb": "AirDrop for every platform."
+      },
+      {
+        "name": "Deskflow",
+        "url": "https://deskflow.org/",
+        "blurb": "One keyboard across machines."
+      }
+    ]
+  },
+  {
+    "name": "Sound",
+    "items": [
+      {
+        "name": "ElevenLabs",
+        "url": "https://elevenlabs.io/",
+        "blurb": "Voice that doesn’t sound like a demo."
+      },
+      {
+        "name": "Splice",
+        "url": "https://splice.com/features/sounds",
+        "blurb": "Sounds when a product needs a pulse."
+      },
+      {
+        "name": "FMOD",
+        "url": "https://www.fmod.com/",
+        "blurb": "Interactive audio for games and installs."
+      }
+    ]
+  }
+]
