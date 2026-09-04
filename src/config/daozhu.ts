@@ -6,14 +6,14 @@ export const ACTS: ActMeta[] = [
     actNumber: 'ALL',
     nameZh: '全部设计',
     nameEn: 'All Design',
-    desc: '全库 484 个精选交互与微动效案例全览'
+    desc: '全库 490 个精选交互与微动效案例全览'
   },
   {
     id: 'today',
     actNumber: 'NEW',
-    nameZh: '✨ 今日上新 · 9月4日',
+    nameZh: '✨ 今日上新 · 9月4日 (12)',
     nameEn: 'Today\'s Drops',
-    desc: '2026年9月4日 最新收录的微质感拟物、AI 思考光球与弹性定价分镜'
+    desc: '2026年9月4日 今日重磅上新 12 个微质感拟物、AI 思考光球、空间光追与弹性物理分镜'
   },
   {
     id: 'act1',
