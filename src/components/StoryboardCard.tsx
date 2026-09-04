@@ -63,6 +63,11 @@ export const StoryboardCard: React.FC<StoryboardCardProps> = ({
             <span className="text-zinc-300 font-sans font-medium text-[11px]">
               {post.category}
             </span>
+            {post.isToday && (
+              <span className="px-1.5 py-0.2 rounded text-[9px] font-mono font-bold bg-amber-500/20 text-amber-300 border border-amber-500/40 animate-pulse">
+                TODAY
+              </span>
+            )}
           </div>
 
           <div className="flex items-center gap-1">

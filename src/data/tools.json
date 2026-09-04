@@ -31,6 +31,16 @@
         "name": "Stitch",
         "url": "https://stitch.withgoogle.com/",
         "blurb": "Google’s AI UI generator."
+      },
+      {
+        "name": "Typebot",
+        "url": "https://typebot.io/",
+        "blurb": "Conversational UI and lead generation agent engine for modern web apps."
+      },
+      {
+        "name": "v0 by Vercel",
+        "url": "https://v0.dev/",
+        "blurb": "Generative UI system delivering production-ready React components and shaders."
       }
     ]
   },

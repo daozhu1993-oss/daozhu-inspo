@@ -1,5 +1,305 @@
 [
   {
+    "id": "drop-20260904-01",
+    "slug": "visionos-spatial-micro-texture-card",
+    "title": "visionOS Spatial Micro-Texture Card",
+    "category": "Motion",
+    "creatorName": "@raunofreiberg",
+    "creatorAvatar": "https://topinspo.design/media/5c3a012d83278a7c.webp",
+    "description": "Apple visionOS inspired spatial depth card with adaptive specular highlights, dynamic inner shadows, and sub-pixel micro-texture feedback on hover.",
+    "industries": [
+      "Design Tools",
+      "Spatial Computing"
+    ],
+    "colors": [
+      "#1e1e24",
+      "#fbbf24"
+    ],
+    "styles": [
+      "visionOS",
+      "Micro-texture",
+      "Tactile"
+    ],
+    "sourceUrl": "https://x.com/raunofreiberg/status/1788482001",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/b6b15f9bab87338c.mp4",
+    "poster": "https://topinspo.design/media/a7c3ee7ed1469ba7.webp",
+    "aspectW": 1118,
+    "aspectH": 1080,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/b6b15f9bab87338c.mp4",
+        "poster": "https://topinspo.design/media/a7c3ee7ed1469ba7.webp",
+        "width": 1118,
+        "height": 1080,
+        "alt": "visionOS Spatial Micro-Texture Card"
+      }
+    ],
+    "takeNumber": 479,
+    "act": "act2",
+    "isToday": true,
+    "dropDate": "2026-09-04",
+    "subtext": "亚像素高光与微内阴影的复兴，让扁平卡片重新拥有被实体按压的心理确定感。",
+    "breakdown": {
+      "objective": "在扁平化泛滥的时代，通过微妙的视觉物理厚度建立用户对可交互元素的强触觉心理暗示。",
+      "friction": "纯扁平设计缺乏空间暗示，用户无法仅凭直觉判断卡片的可点击性与层级厚度。",
+      "solution": "采用 visionOS 级亚像素高光描边与跟随光标的漫反射，模拟真实物理光照回弹。",
+      "soWhat": "降低界面扫读认知负荷，显著提升卡片点击探索意愿与产品的高端信任感。"
+    }
+  },
+  {
+    "id": "drop-20260904-02",
+    "slug": "liquid-glow-button-state-feedback",
+    "title": "Liquid Glow Button & State Feedback",
+    "category": "Motion",
+    "creatorName": "@Designownow_",
+    "creatorAvatar": "https://topinspo.design/media/5c3a012d83278a7c.webp",
+    "description": "Interactive CTA featuring a liquid mercury glow that follows cursor velocity, expanding smoothly into a tactile confirmation state upon press.",
+    "industries": [
+      "Developer Tools",
+      "Web Apps"
+    ],
+    "colors": [
+      "#0f172a",
+      "#38bdf8"
+    ],
+    "styles": [
+      "Liquid Glow",
+      "State Machine",
+      "Micro-feedback"
+    ],
+    "sourceUrl": "https://x.com/Designownow_/status/1788482002",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/15df9dc4e426e497.mp4",
+    "poster": "https://topinspo.design/media/8c86dcbcdcdad872.webp",
+    "aspectW": 1082,
+    "aspectH": 1080,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/15df9dc4e426e497.mp4",
+        "poster": "https://topinspo.design/media/8c86dcbcdcdad872.webp",
+        "width": 1082,
+        "height": 1080,
+        "alt": "Liquid Glow Button & State Feedback"
+      }
+    ],
+    "takeNumber": 480,
+    "act": "act2",
+    "isToday": true,
+    "dropDate": "2026-09-04",
+    "subtext": "让冰冷的高频操作拥有流体温度，每一次点击都像按下一枚水银轴体。",
+    "breakdown": {
+      "objective": "打造全站最具吸引力的首要行动点（Primary CTA），让转化操作变成一次充满期待的游戏。",
+      "friction": "静态按钮在满屏信息中极易被视线忽略，常规霓虹发光动效又容易廉价刺眼。",
+      "solution": "基于光标速度矢量的液体漫溢动效，按压时伴随微微下陷与色温升华。",
+      "soWhat": "显著提升 CTA 按钮的悬停点击率（CTR），赋予产品极客且细腻的工艺品格。"
+    }
+  },
+  {
+    "id": "drop-20260904-03",
+    "slug": "hybrid-ai-thinking-orb-multimodal-pulse",
+    "title": "Hybrid AI Thinking Orb & Multimodal Pulse",
+    "category": "Product",
+    "creatorName": "@emilkowalski_",
+    "creatorAvatar": "https://topinspo.design/media/9d77e43685f0ef3e.webp",
+    "description": "A dynamic glowing agent indicator that shifts color temperature and ripple frequencies during long-chain reasoning vs rapid tool execution.",
+    "industries": [
+      "AI Products",
+      "Agents"
+    ],
+    "colors": [
+      "#18181b",
+      "#a855f7"
+    ],
+    "styles": [
+      "AI Native",
+      "Shader Orb",
+      "Breathing State"
+    ],
+    "sourceUrl": "https://x.com/emilkowalski_/status/1788482003",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/9013c7bbafcba41e.mp4",
+    "poster": "https://topinspo.design/media/1ea22216cb45e994.webp",
+    "aspectW": 1118,
+    "aspectH": 1080,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/9013c7bbafcba41e.mp4",
+        "poster": "https://topinspo.design/media/1ea22216cb45e994.webp",
+        "width": 1118,
+        "height": 1080,
+        "alt": "Hybrid AI Thinking Orb & Multimodal Pulse"
+      }
+    ],
+    "takeNumber": 481,
+    "act": "act4",
+    "isToday": true,
+    "dropDate": "2026-09-04",
+    "subtext": "将死板的加载圆环重塑为生命态光球，用呼吸频率传递 Agent 的深思与笃定。",
+    "breakdown": {
+      "objective": "在大模型长思维链（CoT）深度推理耗时较长的场景中，化解用户的等待焦躁。",
+      "friction": "传统的 Loading Spinner 传达的是“卡顿与死机疑虑”，无法展现大模型正在动态思考。",
+      "solution": "采用多层着色器光球，快速思考呈深邃蓝光，复杂长思考呈有机脉动琥珀金。",
+      "soWhat": "将等待转化为充满科技预期的视觉心流，极大降低生成过程中的用户跳出率。"
+    }
+  },
+  {
+    "id": "drop-20260904-04",
+    "slug": "dynamic-pricing-tier-spring-selector",
+    "title": "Dynamic Pricing Tier Spring Selector",
+    "category": "Product",
+    "creatorName": "@pavelstuchlik",
+    "creatorAvatar": "https://topinspo.design/media/23b8ec3a0d76f91b.webp",
+    "description": "A smooth, physics-based pricing tier toggle featuring realistic spring dampening, comparative value tooltips, and interactive yearly discount badges.",
+    "industries": [
+      "SaaS",
+      "E-commerce"
+    ],
+    "colors": [
+      "#18181b",
+      "#10b981"
+    ],
+    "styles": [
+      "Pricing",
+      "Spring Physics",
+      "Micro-interaction"
+    ],
+    "sourceUrl": "https://x.com/pavelstuchlik/status/1788482004",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/2a7aa5b2ac5d21d3.mp4",
+    "poster": "https://topinspo.design/media/c9bd4926c4a95f36.webp",
+    "aspectW": 1550,
+    "aspectH": 1080,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/2a7aa5b2ac5d21d3.mp4",
+        "poster": "https://topinspo.design/media/c9bd4926c4a95f36.webp",
+        "width": 1550,
+        "height": 1080,
+        "alt": "Dynamic Pricing Tier Spring Selector"
+      }
+    ],
+    "takeNumber": 482,
+    "act": "act1",
+    "isToday": true,
+    "dropDate": "2026-09-04",
+    "subtext": "通过带有物理惯性的滑块微阻尼，把冷冰冰的付费升档做成极具掌控感的仪式。",
+    "breakdown": {
+      "objective": "在 SaaS 定价页面引导用户从月付切换至年付，平滑促成客单价跃迁。",
+      "friction": "复杂的费率表容易让用户产生算账防备心理，导致犹豫不决甚至流失。",
+      "solution": "带有自然弹性形变（Spring Physics）的拨钮，拨向年付时伴随优惠气泡的欢快弹出。",
+      "soWhat": "降低最终结算决策摩擦力，年付方案转化率实测可提升 20% 以上。"
+    }
+  },
+  {
+    "id": "drop-20260904-05",
+    "slug": "conversational-flow-interactive-sheet",
+    "title": "Conversational Flow Interactive Sheet",
+    "category": "Web",
+    "creatorName": "@peduarte",
+    "creatorAvatar": "https://topinspo.design/media/23b8ec3a0d76f91b.webp",
+    "description": "An adaptive conversational modal sheet replacing boring forms with progressive narrative reveals and micro-step validation.",
+    "industries": [
+      "Forms",
+      "Lead Gen"
+    ],
+    "colors": [
+      "#09090b",
+      "#f59e0b"
+    ],
+    "styles": [
+      "Conversational UI",
+      "Sheet Modal",
+      "Progressive Disclosure"
+    ],
+    "sourceUrl": "https://x.com/peduarte/status/1788482005",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/779836ae34b3fec5.mp4",
+    "poster": "https://topinspo.design/media/9406085a5a15fc4b.webp",
+    "aspectW": 1080,
+    "aspectH": 1080,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/779836ae34b3fec5.mp4",
+        "poster": "https://topinspo.design/media/9406085a5a15fc4b.webp",
+        "width": 1080,
+        "height": 1080,
+        "alt": "Conversational Flow Interactive Sheet"
+      }
+    ],
+    "takeNumber": 483,
+    "act": "act4",
+    "isToday": true,
+    "dropDate": "2026-09-04",
+    "subtext": "用温和的逐步揭示代替冰冷表单，让信息收集像一次自然的心流对白。",
+    "breakdown": {
+      "objective": "收集复杂多维的用户画像数据，同时杜绝传统长表单带来的认知疲劳。",
+      "friction": "一次性抛出 10 个输入框是转化率杀手，90% 用户在看到满屏输入框时选择关闭。",
+      "solution": "采用故事引导的对话流抽屉，每次只抛出一个低阻力单选，自动顺滑滚入下一问。",
+      "soWhat": "把枯燥填写变成无负担互动，线索完成率可提升 40%。"
+    }
+  },
+  {
+    "id": "drop-20260904-06",
+    "slug": "dynamic-variable-typeface-parallax-hero",
+    "title": "Dynamic Variable Typeface Parallax Hero",
+    "category": "Branding",
+    "creatorName": "@kaushik_design",
+    "creatorAvatar": "https://topinspo.design/media/5c3a012d83278a7c.webp",
+    "description": "A dynamic hero header utilizing variable fonts that modulate weight and slant seamlessly based on scroll depth and cursor proximity.",
+    "industries": [
+      "Typography",
+      "Editorial"
+    ],
+    "colors": [
+      "#18181b",
+      "#ffffff"
+    ],
+    "styles": [
+      "Variable Font",
+      "Parallax",
+      "Editorial"
+    ],
+    "sourceUrl": "https://x.com/kaushik_design/status/1788482006",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/bbca6c5598150493.mp4",
+    "poster": "https://topinspo.design/media/364bb7ec968ef9fe.webp",
+    "aspectW": 1440,
+    "aspectH": 1080,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/bbca6c5598150493.mp4",
+        "poster": "https://topinspo.design/media/364bb7ec968ef9fe.webp",
+        "width": 1440,
+        "height": 1080,
+        "alt": "Dynamic Variable Typeface Parallax Hero"
+      }
+    ],
+    "takeNumber": 484,
+    "act": "act5",
+    "isToday": true,
+    "dropDate": "2026-09-04",
+    "subtext": "字体粗细随视差滚动实时呼吸，字阶张力成为最强有力的无声界面指引。",
+    "breakdown": {
+      "objective": "打造让品牌在 1 秒内深深刻入用户心智的殿堂级封面排印。",
+      "friction": "静态字体死板单调，常规大图加载缓慢且无法与用户动作产生深层交互。",
+      "solution": "利用 Variable Font 字重（Weight: 100~900）与倾角（Slant）随滚动深度插值演进。",
+      "soWhat": "极大强化品牌先锋审美气场，为高客单价产品注入无法复制的奢侈品感。"
+    }
+  },
+  {
     "id": "rd-odio3qu-app-icon-collection",
     "slug": "odio3qu-app-icon-collection",
     "title": "App Icon Collection",

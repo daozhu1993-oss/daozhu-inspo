@@ -1,4 +1,4 @@
-export type ActId = 'all' | 'act1' | 'act2' | 'act3' | 'act4' | 'act5';
+export type ActId = 'all' | 'today' | 'act1' | 'act2' | 'act3' | 'act4' | 'act5';
 
 export interface ActMeta {
   id: ActId;
@@ -48,6 +48,8 @@ export interface Post {
   act: 'act1' | 'act2' | 'act3' | 'act4' | 'act5';
   subtext: string;
   breakdown: SceneBreakdown;
+  isToday?: boolean;
+  dropDate?: string;
 }
 
 export interface ToolItem {

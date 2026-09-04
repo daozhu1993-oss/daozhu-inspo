@@ -48,7 +48,9 @@ export function App() {
   const filteredPosts = useMemo(() => {
     let list = allPosts;
 
-    if (currentAct !== 'all') {
+    if (currentAct === 'today') {
+      list = list.filter((p) => p.isToday);
+    } else if (currentAct !== 'all') {
       list = list.filter((p) => p.act === currentAct);
     }
 
