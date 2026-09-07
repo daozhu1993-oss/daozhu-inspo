@@ -1,5 +1,413 @@
 [
   {
+    "id": "drop-20260907-01",
+    "slug": "linear-style-multidimensional-filter-search",
+    "title": "Linear-Style Multi-Dimensional Filter & Command Search",
+    "category": "Product",
+    "creatorName": "@linear",
+    "creatorAvatar": "https://topinspo.design/media/5c3a012d83278a7c.webp",
+    "description": "An ultra-compact natural language filter and command palette bar replacing bulky screen-filling form filters with instant multi-facet query slicing.",
+    "industries": [
+      "Developer Tools",
+      "B2B SaaS",
+      "Productivity"
+    ],
+    "colors": [
+      "#08090a",
+      "#5e6ad2"
+    ],
+    "styles": [
+      "Command Palette",
+      "Natural Language Filter",
+      "Progressive Disclosure"
+    ],
+    "sourceUrl": "https://linear.app/blog/advanced-filtering-ux-patterns",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/cff87cb8868e38bd.mp4",
+    "poster": "https://topinspo.design/media/5a72685309f47c3c.webp",
+    "aspectW": 16,
+    "aspectH": 9,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/cff87cb8868e38bd.mp4",
+        "poster": "https://topinspo.design/media/5a72685309f47c3c.webp",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Linear-Style Multi-Dimensional Filter & Command Search"
+      }
+    ],
+    "takeNumber": 491,
+    "act": "act1",
+    "isToday": true,
+    "dropDate": "2026-09-07",
+    "subtext": "不要把数据库字段直接甩到用户脸上：把铺满一屏的庞杂表单，收敛进一个仿自然语言的优雅输入框。",
+    "breakdown": {
+      "objective": "在数据量密集的专业 B 端场景中，提供 0 认知负荷的多条件即时组合检索。",
+      "friction": "传统的多下拉筛选栏铺满半个屏幕，选项之间容易产生逻辑排斥，让用户产生严重的表单畏惧。",
+      "solution": "采用 Linear 式单行智能组合搜索，通过快捷键键入 is:open 或 assignee:@me 实时高亮切片。",
+      "soWhat": "检索速度提升 50%，将沉重的信息录入转变为极客敲击键盘的心流快感。"
+    }
+  },
+  {
+    "id": "drop-20260907-02",
+    "slug": "fluid-typography-clamp-dynamic-scale-hero",
+    "title": "Fluid Typography Clamp & Dynamic Scale Hero",
+    "category": "Branding",
+    "creatorName": "@cameronmoll",
+    "creatorAvatar": "https://topinspo.design/media/23b8ec3a0d76f91b.webp",
+    "description": "Responsive fluid editorial header utilizing CSS clamp() math for continuous, breakpoint-free typography scaling across mobile, tablet, and 4K viewports.",
+    "industries": [
+      "Editorial",
+      "Typography",
+      "Branding"
+    ],
+    "colors": [
+      "#0c0d0e",
+      "#f59e0b"
+    ],
+    "styles": [
+      "Fluid Typography",
+      "CSS clamp",
+      "Editorial Layout"
+    ],
+    "sourceUrl": "https://www.smashingmagazine.com/2026/03/fluid-typography-clamp-mastery/",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/fa18c9dd2aef861e.mp4",
+    "poster": "https://topinspo.design/media/0be584435b6f18f9.webp",
+    "aspectW": 16,
+    "aspectH": 9,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/fa18c9dd2aef861e.mp4",
+        "poster": "https://topinspo.design/media/0be584435b6f18f9.webp",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Fluid Typography Clamp & Dynamic Scale Hero"
+      }
+    ],
+    "takeNumber": 492,
+    "act": "act5",
+    "isToday": true,
+    "dropDate": "2026-09-07",
+    "subtext": "用 CSS clamp() 彻底告别屏幕宽度跳变时的文字断行，标题字号随视口如丝绸般贴合舒展。",
+    "breakdown": {
+      "objective": "在折叠屏、手机、平板与 4K 显示器之间，保持一致且神圣的版式视觉气场。",
+      "friction": "依靠 media query 断点切换字阶，经常在临界宽度出现极其尴尬的单字掉行与排版撕裂。",
+      "solution": "基于视口宽度黄金插值函数，让字阶、行高与字偶间距随窗口无级平滑缩放。",
+      "soWhat": "消除跨端跳变割裂感，提升高端品牌与文学内容消费的艺术完整度。"
+    }
+  },
+  {
+    "id": "drop-20260907-03",
+    "slug": "breaking-the-grid-spatial-asymmetry-hero",
+    "title": "Breaking the Grid Spatial Asymmetry Hero",
+    "category": "3D",
+    "creatorName": "@basit_designs",
+    "creatorAvatar": "https://topinspo.design/media/5c3a012d83278a7c.webp",
+    "description": "International style layout intentionally breaking out of grid boundaries by 30 pixels to generate dramatic focal tension and depth perception.",
+    "industries": [
+      "Architecture",
+      "Portfolios",
+      "WebGL"
+    ],
+    "colors": [
+      "#111215",
+      "#38bdf8"
+    ],
+    "styles": [
+      "Breaking the Grid",
+      "Spatial Depth",
+      "Asymmetry"
+    ],
+    "sourceUrl": "https://www.siteinspire.com/essays/breaking-the-grid-deliberately",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/c3ae0daa02e641c0.mp4",
+    "poster": "https://topinspo.design/media/6f38c40f8ceb8723.webp",
+    "aspectW": 16,
+    "aspectH": 9,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/c3ae0daa02e641c0.mp4",
+        "poster": "https://topinspo.design/media/6f38c40f8ceb8723.webp",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Breaking the Grid Spatial Asymmetry Hero"
+      }
+    ],
+    "takeNumber": 493,
+    "act": "act3",
+    "isToday": true,
+    "dropDate": "2026-09-07",
+    "subtext": "规矩是用来立秩序的，破规矩是用来造高潮的：故意超出栅格边界 30 像素，创造强烈的空间张力。",
+    "breakdown": {
+      "objective": "在极简克制的网格系统中打破死板，瞬间抓住挑剔用户的眼球焦点。",
+      "friction": "绝对对称或纯矩形对齐容易沦为无趣的企业模板，无法传达独立先锋的态度。",
+      "solution": "在 95% 的严格秩序对齐之中，故意让关键三维卡片错位浮凸出界，并在悬停时光影外溢。",
+      "soWhat": "为平庸的界面赋予戏剧化的重力突破感，社交分享率提升 2 倍以上。"
+    }
+  },
+  {
+    "id": "drop-20260907-04",
+    "slug": "zero-latency-haptic-pressure-gauge",
+    "title": "Zero-Latency Haptic Pressure Gauge",
+    "category": "Motion",
+    "creatorName": "@SebCornelius",
+    "creatorAvatar": "https://topinspo.design/media/9d77e43685f0ef3e.webp",
+    "description": "Realistic spring-inertia dial gauge with mechanical needle rebound, micro-haptic sound detents, and threshold color glow.",
+    "industries": [
+      "Instrumentation",
+      "Pro Hardware",
+      "Monitoring"
+    ],
+    "colors": [
+      "#0f1115",
+      "#f43f5e"
+    ],
+    "styles": [
+      "Hardware Gauge",
+      "Spring Physics",
+      "Tactile Rebound"
+    ],
+    "sourceUrl": "https://ghostty.org/blog/keyboard-only-developer-mastery",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/f168415c87d4717e.mp4",
+    "poster": "https://topinspo.design/media/9f7787f64e95cf3c.webp",
+    "aspectW": 16,
+    "aspectH": 9,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/f168415c87d4717e.mp4",
+        "poster": "https://topinspo.design/media/9f7787f64e95cf3c.webp",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Zero-Latency Haptic Pressure Gauge"
+      }
+    ],
+    "takeNumber": 494,
+    "act": "act2",
+    "isToday": true,
+    "dropDate": "2026-09-07",
+    "subtext": "模拟航空仪表的弹簧阻尼：把抽象的数值波动，做成指尖能感知到重力与摩擦的金属指针。",
+    "breakdown": {
+      "objective": "在高频监控与硬件控制面板中，让关键阈值变化具备极高的危险/安全感知度。",
+      "friction": "数字直接变动冷漠无感，纯 CSS 线性动效又显得虚假、缺乏质量感。",
+      "solution": "引入带摩擦系数与转动惯量的刚体动力学模型，指针越过红线时伴随微弱的金属回震。",
+      "soWhat": "毫秒级唤醒用户的肌肉记忆与注意力警觉，让专业软件拥有百万级工业仪器的精工触感。"
+    }
+  },
+  {
+    "id": "drop-20260907-05",
+    "slug": "micro-capsule-agent-task-packaging",
+    "title": "Micro-Capsule Agent Task Packaging",
+    "category": "Product",
+    "creatorName": "@ayushsoni_io",
+    "creatorAvatar": "https://topinspo.design/media/23b8ec3a0d76f91b.webp",
+    "description": "Packaging complex 8-branch multi-agent workflows into a frictionless, one-click micro-capsule button with state perimeter halos.",
+    "industries": [
+      "AI Agents",
+      "Automation",
+      "SaaS"
+    ],
+    "colors": [
+      "#090a0f",
+      "#8b5cf6"
+    ],
+    "styles": [
+      "Micro-Capsule",
+      "Agent Packaging",
+      "Halo States"
+    ],
+    "sourceUrl": "https://www.woshipm.com/ucd/6462198.html",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/660bcff7a79a8c52.mp4",
+    "poster": "https://topinspo.design/media/22ed005c63a4842c.webp",
+    "aspectW": 16,
+    "aspectH": 9,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/660bcff7a79a8c52.mp4",
+        "poster": "https://topinspo.design/media/22ed005c63a4842c.webp",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Micro-Capsule Agent Task Packaging"
+      }
+    ],
+    "takeNumber": 495,
+    "act": "act4",
+    "isToday": true,
+    "dropDate": "2026-09-07",
+    "subtext": "好的科技是让人感知不到科技的存在：把数十道分支逻辑吞进底层，把极致简单留给用户。",
+    "breakdown": {
+      "objective": "让非技术小白用户也能毫不费力地调度复杂的多步骤 AI 自动化流水线。",
+      "friction": "节点连线图或参数配置面板门槛极高，直接吓退 80% 的日常办公用户。",
+      "solution": "将复杂的编排封装为一个带状态光环的「一键执行」微型胶囊，执行时外圈波纹流转。",
+      "soWhat": "彻底粉碎高级功能的学习成本，把专家级工具普及至大众消费级市场。"
+    }
+  },
+  {
+    "id": "drop-20260907-06",
+    "slug": "3d-chest-opening-onboarding-ritual",
+    "title": "3D Chest Opening Onboarding Ritual",
+    "category": "3D",
+    "creatorName": "@marckohlbrugge",
+    "creatorAvatar": "https://topinspo.design/media/5c3a012d83278a7c.webp",
+    "description": "Playful 3D treasure chest opening celebration rewarding users upon onboarding completion with volumetric particle explosion.",
+    "industries": [
+      "Gamification",
+      "Crypto",
+      "Community"
+    ],
+    "colors": [
+      "#141118",
+      "#fbbf24"
+    ],
+    "styles": [
+      "3D Gamification",
+      "Onboarding Ritual",
+      "Particle Burst"
+    ],
+    "sourceUrl": "https://growth.design/case-studies/exclusive-privilege-referral-mechanics",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/d5fb2eaa35d92f22.mp4",
+    "poster": "https://topinspo.design/media/373afe64953ad0eb.webp",
+    "aspectW": 16,
+    "aspectH": 9,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/d5fb2eaa35d92f22.mp4",
+        "poster": "https://topinspo.design/media/373afe64953ad0eb.webp",
+        "width": 1920,
+        "height": 1080,
+        "alt": "3D Chest Opening Onboarding Ritual"
+      }
+    ],
+    "takeNumber": 496,
+    "act": "act1",
+    "isToday": true,
+    "dropDate": "2026-09-07",
+    "subtext": "第一幕的悬念与奖励：把新用户注册后的第一次进入，做成开启隐藏宝箱的戏剧高潮。",
+    "breakdown": {
+      "objective": "在新用户完成初始设置后，给予强烈的情感正向反馈与多巴胺犒赏。",
+      "friction": "传统的“恭喜注册成功”弹窗苍白无力，用户在进入空白仪表盘的一瞬间容易感到茫然。",
+      "solution": "3D 宝箱伴随光线溢出平滑开启，直接解锁专属特权徽章并无缝过渡到第一项核心任务。",
+      "soWhat": "Day 1 用户核心操作激活率（Activation Rate）跃升 35%，建立牢不可破的第一印象。"
+    }
+  },
+  {
+    "id": "drop-20260907-07",
+    "slug": "curatorial-museum-rhythm-gallery-feeds",
+    "title": "Curatorial Museum Rhythm Gallery Feeds",
+    "category": "Web",
+    "creatorName": "@47thegreat_",
+    "creatorAvatar": "https://topinspo.design/media/9d77e43685f0ef3e.webp",
+    "description": "Art gallery-inspired feed rhythm alternating full-bleed widescreen hero units, compact dual-column snapshots, and generous breathing space.",
+    "industries": [
+      "Photography",
+      "Museum",
+      "Portfolios"
+    ],
+    "colors": [
+      "#0a0a0c",
+      "#e4e4e7"
+    ],
+    "styles": [
+      "Curatorial Layout",
+      "Rhythm Spacing",
+      "Editorial Feed"
+    ],
+    "sourceUrl": "https://www.archdaily.com/articles/curatorial-rhythm-for-digital-interfaces",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/b10b231d574123c4.mp4",
+    "poster": "https://topinspo.design/media/cd03e0f7446841b2.webp",
+    "aspectW": 16,
+    "aspectH": 9,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/b10b231d574123c4.mp4",
+        "poster": "https://topinspo.design/media/cd03e0f7446841b2.webp",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Curatorial Museum Rhythm Gallery Feeds"
+      }
+    ],
+    "takeNumber": 497,
+    "act": "act3",
+    "isToday": true,
+    "dropDate": "2026-09-07",
+    "subtext": "信息流不是杂乱的货架，而是一场精心策划的视觉巡礼；冷暖尺幅错落，长页面下滑如交响乐。",
+    "breakdown": {
+      "objective": "消除长列表滚动带来的审美疲劳，让内容消费成为一次沉浸的艺术展漫游。",
+      "friction": "机械等高卡片像千篇一律的超市货架，下滑超过 3 屏后大脑自动屏蔽重复信息。",
+      "solution": "借鉴美术馆策展手法，交错排布宽画幅大银幕、竖向分镜卡与文字呼吸留白。",
+      "soWhat": "页面滚动深度提升 60%，用户在潜移默化中浏览了双倍的内容。"
+    }
+  },
+  {
+    "id": "drop-20260907-08",
+    "slug": "live-pulse-real-time-data-stream",
+    "title": "Live Pulse Real-Time Data Stream & Scoreboard",
+    "category": "Motion",
+    "creatorName": "@benjitaylor",
+    "creatorAvatar": "https://topinspo.design/media/5c3a012d83278a7c.webp",
+    "description": "Living digital scoreboard featuring mechanical flip-counter transitions, dynamic ambient pulses, and subtle neon trails upon data mutation.",
+    "industries": [
+      "Fintech",
+      "Live Sports",
+      "Dashboards"
+    ],
+    "colors": [
+      "#0b0c10",
+      "#10b981"
+    ],
+    "styles": [
+      "Live Scoreboard",
+      "Flip Counter",
+      "Pulse Haptics"
+    ],
+    "sourceUrl": "https://ghostty.org/blog/keyboard-only-developer-mastery",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/eff26aec68c461b9.mp4",
+    "poster": "https://topinspo.design/media/1214e96e65b06d84.webp",
+    "aspectW": 16,
+    "aspectH": 9,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/eff26aec68c461b9.mp4",
+        "poster": "https://topinspo.design/media/1214e96e65b06d84.webp",
+        "width": 1920,
+        "height": 1080,
+        "alt": "Live Pulse Real-Time Data Stream & Scoreboard"
+      }
+    ],
+    "takeNumber": 498,
+    "act": "act2",
+    "isToday": true,
+    "dropDate": "2026-09-07",
+    "subtext": "让数据具备生命的心跳：微小的光斑脉冲与翻牌微动效，实时传递系统的活力与确定性。",
+    "breakdown": {
+      "objective": "在实时协同与动态监控产品中，无声传递后台数据的“实时存活性”。",
+      "friction": "静态数字变动突兀且缺乏温度，全量刷新又容易造成画面闪烁干扰视线。",
+      "solution": "数字跳动瞬间采用带有柔和阻尼的机械翻牌与荧光粒子外溢，静止时保持微光呼吸。",
+      "soWhat": "显著增强用户对系统实时性（Real-time Reliability）的直觉信任。"
+    }
+  },
+  {
     "id": "drop-20260904-07",
     "slug": "biometric-passkey-authentication-lock-haptics",
     "title": "Passkey Biometric Auth & Lock Haptics",
@@ -40,7 +448,7 @@
     ],
     "takeNumber": 485,
     "act": "act1",
-    "isToday": true,
+    "isToday": false,
     "dropDate": "2026-09-04",
     "subtext": "把免密登录的最后 0.3 秒，设计成让用户安全感充盈的金属落锁音画仪式。",
     "breakdown": {
@@ -91,7 +499,7 @@
     ],
     "takeNumber": 486,
     "act": "act3",
-    "isToday": true,
+    "isToday": false,
     "dropDate": "2026-09-04",
     "subtext": "打破平面的镜头纵深：实时玻璃折射与重力感知，打造沉浸式空间叙事舞台。",
     "breakdown": {
@@ -141,7 +549,7 @@
     ],
     "takeNumber": 487,
     "act": "act2",
-    "isToday": true,
+    "isToday": false,
     "dropDate": "2026-09-04",
     "subtext": "微物理阻尼与步进刻度，将无形的数字参数转化为指尖可感知的精工器械。",
     "breakdown": {
@@ -191,7 +599,7 @@
     ],
     "takeNumber": 488,
     "act": "act4",
-    "isToday": true,
+    "isToday": false,
     "dropDate": "2026-09-04",
     "subtext": "将看不见的后台多智能体并发计算，重塑为有机呼吸的蜂群协同网络。",
     "breakdown": {
@@ -242,7 +650,7 @@
     ],
     "takeNumber": 489,
     "act": "act5",
-    "isToday": true,
+    "isToday": false,
     "dropDate": "2026-09-04",
     "subtext": "打破常规下拉框：让菜单展开成为整场视觉体验中最惊艳的戏剧幕布拉开。",
     "breakdown": {
@@ -292,7 +700,7 @@
     ],
     "takeNumber": 490,
     "act": "act2",
-    "isToday": true,
+    "isToday": false,
     "dropDate": "2026-09-04",
     "subtext": "非线性张力回弹：把无聊的下拉等待，变成指尖百玩不厌的减压玩具。",
     "breakdown": {
@@ -342,7 +750,7 @@
     ],
     "takeNumber": 479,
     "act": "act2",
-    "isToday": true,
+    "isToday": false,
     "dropDate": "2026-09-04",
     "subtext": "亚像素高光与微内阴影的复兴，让扁平卡片重新拥有被实体按压的心理确定感。",
     "breakdown": {
@@ -392,7 +800,7 @@
     ],
     "takeNumber": 480,
     "act": "act2",
-    "isToday": true,
+    "isToday": false,
     "dropDate": "2026-09-04",
     "subtext": "让冰冷的高频操作拥有流体温度，每一次点击都像按下一枚水银轴体。",
     "breakdown": {
@@ -442,7 +850,7 @@
     ],
     "takeNumber": 481,
     "act": "act4",
-    "isToday": true,
+    "isToday": false,
     "dropDate": "2026-09-04",
     "subtext": "将死板的加载圆环重塑为生命态光球，用呼吸频率传递 Agent 的深思与笃定。",
     "breakdown": {
@@ -492,7 +900,7 @@
     ],
     "takeNumber": 482,
     "act": "act1",
-    "isToday": true,
+    "isToday": false,
     "dropDate": "2026-09-04",
     "subtext": "通过带有物理惯性的滑块微阻尼，把冷冰冰的付费升档做成极具掌控感的仪式。",
     "breakdown": {
@@ -542,7 +950,7 @@
     ],
     "takeNumber": 483,
     "act": "act4",
-    "isToday": true,
+    "isToday": false,
     "dropDate": "2026-09-04",
     "subtext": "用温和的逐步揭示代替冰冷表单，让信息收集像一次自然的心流对白。",
     "breakdown": {
@@ -592,7 +1000,7 @@
     ],
     "takeNumber": 484,
     "act": "act5",
-    "isToday": true,
+    "isToday": false,
     "dropDate": "2026-09-04",
     "subtext": "字体粗细随视差滚动实时呼吸，字阶张力成为最强有力的无声界面指引。",
     "breakdown": {

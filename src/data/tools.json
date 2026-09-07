@@ -58,6 +58,16 @@
         "blurb": "A living directory of modern UI blocks."
       },
       {
+        "name": "Biome",
+        "url": "https://biomejs.dev/",
+        "blurb": "Rust-powered toolchain for web projects: 25x faster formatter & linter."
+      },
+      {
+        "name": "SimpleBackups",
+        "url": "https://simplebackups.io/",
+        "blurb": "Automated cloud database and file snapshot service for indie products."
+      },
+      {
         "name": "Component Gallery",
         "url": "https://component.gallery/",
         "blurb": "How real systems name and shape UI."
