@@ -58,8 +58,13 @@ export const daozhuConfig = {
   slogan: "设计是交互的分镜，微动效是产品的潜台词",
   subtitle: "十年编剧转产品经理 · 用故事思维解构顶尖数字美学",
   bioZh: "干过十年编剧，后来转做产品经理。擅长用故事思维驱动各种「杂七杂八」的产品与数字美学探索。在看似分散的代码与动效中，寻找打动人心的戏剧张力与商业支点。",
-  aboutHref: "https://daozhu1993-oss.github.io/v2/",
+  aboutHref: "https://www.daozhuai.cn/#about",
   links: [
+    {
+      label: "岛主官方门户 · 个人主页",
+      handle: "daozhuai.cn",
+      href: "https://www.daozhuai.cn"
+    },
     {
       label: "Twitter / X",
       handle: "@daozhu_1",
