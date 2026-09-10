@@ -1,5 +1,515 @@
 [
   {
+    "id": "drop-20260910-01",
+    "slug": "portfolio-boarding-pass-swipe-scanner",
+    "title": "Portfolio Boarding Pass Swipe & Scanner",
+    "category": "Web",
+    "creatorName": "@cameronmoll",
+    "creatorAvatar": "https://topinspo.design/media/fa26632f6701d095.webp",
+    "description": "A delightful travel-themed intro for Mike Barton's portfolio where visitors swipe a custom boarding pass through a card reader to gain access before landing on his work history.",
+    "industries": [
+      "Portfolio",
+      "Creative Tech",
+      "Interactive Storytelling"
+    ],
+    "colors": [
+      "#0f1117",
+      "#e75a3d"
+    ],
+    "styles": [
+      "Skeuomorphic Swipe",
+      "Hardware Metaphor",
+      "Gatekeeping Ritual"
+    ],
+    "sourceUrl": "https://x.com/cameronmoll/status/2093333082912829808",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/92165f8b43ca585c.mp4",
+    "poster": "https://topinspo.design/media/878f0d3815f62f76.webp",
+    "aspectW": 912,
+    "aspectH": 720,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/92165f8b43ca585c.mp4",
+        "poster": "https://topinspo.design/media/878f0d3815f62f76.webp",
+        "width": 912,
+        "height": 720,
+        "alt": "Portfolio Boarding Pass Swipe & Scanner"
+      }
+    ],
+    "takeNumber": 499,
+    "act": "act1",
+    "isToday": true,
+    "dropDate": "2026-09-10",
+    "subtext": "不要让用户平淡地滚动进场：用一张需要物理拖拽刷卡的登机牌，赋予入场仪式感与戏剧期待。",
+    "breakdown": {
+      "objective": "在个人作品集或高定官网首页，制造极具辨识度的入场「登机验真」心理暗示。",
+      "friction": "常规作品集网站一打开就是毫无波澜的个人简介，用户停留 3 秒即关闭，毫无沉浸参与感。",
+      "solution": "将导航入口拟物化为一张真实的航班登机牌，要求访客用鼠标按住磁条向右拖过读卡槽，伴随扫描光线与锁舌解开的物理回弹，平滑展开工作年表。",
+      "soWhat": "把枯燥的浏览行为升级为一次「通关校验」的游戏化仪式，建立不可替代的创作者记忆锚点。"
+    }
+  },
+  {
+    "id": "drop-20260910-02",
+    "slug": "playstation-gooey-physics-speed-dial",
+    "title": "PlayStation Gooey Physics Speed Dial",
+    "category": "Motion",
+    "creatorName": "@arknow91",
+    "creatorAvatar": "https://topinspo.design/media/5cda411981a8179e.webp",
+    "description": "A dark speed dial microinteraction concept where PlayStation-style action buttons expand with fluid gooey physics, leaving colorful organic trails as the cursor moves between items.",
+    "industries": [
+      "Gaming",
+      "Mobile OS",
+      "Social"
+    ],
+    "colors": [
+      "#09090b",
+      "#4f46e5"
+    ],
+    "styles": [
+      "SVG Gooey Filter",
+      "Spring Physics",
+      "Tactile Metamorphic"
+    ],
+    "sourceUrl": "https://x.com/arknow91/status/2089955524007674031",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/689c2b0798d366d4.mp4",
+    "poster": "https://topinspo.design/media/8dd55151aec36327.webp",
+    "aspectW": 540,
+    "aspectH": 540,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/689c2b0798d366d4.mp4",
+        "poster": "https://topinspo.design/media/8dd55151aec36327.webp",
+        "width": 540,
+        "height": 540,
+        "alt": "PlayStation Gooey Physics Speed Dial"
+      }
+    ],
+    "takeNumber": 500,
+    "act": "act2",
+    "isToday": true,
+    "dropDate": "2026-09-10",
+    "subtext": "界面的边界不是冷冰冰的几何矩形，而是充满表面张力、可拉扯可愈合的有机胶体。",
+    "breakdown": {
+      "objective": "在紧凑的屏幕空间内展开多级快捷拨盘，并在操作过程中传递极度解压的触觉反馈。",
+      "friction": "传统浮动动作按钮（FAB）展开时要么是生硬的线性位移，要么是卡片弹出，缺乏操作快感与物理连续性。",
+      "solution": "利用 SVG feGaussianBlur 与 feColorMatrix 构造粘液融合滤镜，按钮拖拽时拉出高张力胶状丝线，释放时弹射入位，伴随经典几何符号的高亮切换。",
+      "soWhat": "将工具性的展开菜单升华为指尖把玩的微互动，操作停留时长提升 40%，打造令人上瘾的微动效爽点。"
+    }
+  },
+  {
+    "id": "drop-20260910-03",
+    "slug": "3d-fluid-bubble-physics-unread-counter",
+    "title": "3D Fluid Bubble Physics Unread Counter",
+    "category": "3D",
+    "creatorName": "@prekesh",
+    "creatorAvatar": "https://topinspo.design/media/4d06f932847b3d29.webp",
+    "description": "A 3D motion concept reimagining the messages app icon so that unread count is visualised as glossy spheres physically filling a speech bubble shell.",
+    "industries": [
+      "Communication",
+      "Mobile OS",
+      "Social Media"
+    ],
+    "colors": [
+      "#050505",
+      "#38bdf8"
+    ],
+    "styles": [
+      "Tactile Mass",
+      "Soft Body Physics",
+      "3D Liquid Fill"
+    ],
+    "sourceUrl": "https://x.com/prekesh/status/2092513901728420340",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/ab2287a6e0e13a0d.mp4",
+    "poster": "https://topinspo.design/media/8bdd92ac4d191e54.webp",
+    "aspectW": 540,
+    "aspectH": 540,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/ab2287a6e0e13a0d.mp4",
+        "poster": "https://topinspo.design/media/8bdd92ac4d191e54.webp",
+        "width": 540,
+        "height": 540,
+        "alt": "3D Fluid Bubble Physics Unread Counter"
+      }
+    ],
+    "takeNumber": 501,
+    "act": "act2",
+    "isToday": true,
+    "dropDate": "2026-09-10",
+    "subtext": "把抽象的未读数字变成沉甸甸的物理实体：每一则新消息，都是一颗坠入玻璃气泡的荧光弹珠。",
+    "breakdown": {
+      "objective": "重塑通讯软件图标角标体验，用物理实体堆叠感替代带来焦虑的红色阿拉伯数字。",
+      "friction": "传统右上角红点角标（Badge）极易引发现代人的数字疲倦与未读红点强迫症，缺乏情感温度。",
+      "solution": "将气泡图标重塑为一个半透明玻璃容器，未读消息以高反光 3D 软体珍珠的形式从天而降，随设备重力传感器在气泡内碰撞、沉底并互相挤压。",
+      "soWhat": "消解冰冷通知带来的红点压力，让「接收消息」转化为视觉上的充盈与收藏满足感。"
+    }
+  },
+  {
+    "id": "drop-20260910-04",
+    "slug": "vacuum-pressure-dense-instrument-deck",
+    "title": "Vacuum Pressure Dense Instrument Deck",
+    "category": "Product",
+    "creatorName": "@SebCornelius",
+    "creatorAvatar": "https://topinspo.design/media/a0d21e909419752e.webp",
+    "description": "A dark, data-dense instrument control interface for monitoring vacuum pressure readings, featuring rotary knobs, live waveform graphs, and scientific notation readouts across multiple parameter.",
+    "industries": [
+      "Industrial IoT",
+      "DeepTech",
+      "Data Visualization"
+    ],
+    "colors": [
+      "#0b0d10",
+      "#22c55e"
+    ],
+    "styles": [
+      "Hardware Skeuomorphism",
+      "Oscilloscope Waveform",
+      "Dense Telemetry"
+    ],
+    "sourceUrl": "https://x.com/SebCornelius/status/2093011338553618928",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/f168415c87d4717e.mp4",
+    "poster": "https://topinspo.design/media/9f7787f64e95cf3c.webp",
+    "aspectW": 638,
+    "aspectH": 360,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/f168415c87d4717e.mp4",
+        "poster": "https://topinspo.design/media/9f7787f64e95cf3c.webp",
+        "width": 638,
+        "height": 360,
+        "alt": "Vacuum Pressure Dense Instrument Deck"
+      }
+    ],
+    "takeNumber": 502,
+    "act": "act3",
+    "isToday": true,
+    "dropDate": "2026-09-10",
+    "subtext": "专业仪表的尊严在于精密的密度与克制的光影：旋钮转动时的微小阻尼，胜过千百行代码的说明文档。",
+    "breakdown": {
+      "objective": "在工业级设备遥测与真空度控制场景中，构建兼具物理仪器质感与现代数字精密度的监视控制台。",
+      "friction": "传统专业工程软件要么是土气呆板的灰框，要么是华而不实缺乏数据密度的概念图，难以满足极客对精密操控的直觉渴望。",
+      "solution": "高密度矩阵布局融合金属倒角旋钮、实时示波器扫线波形与科学计数法动态读数，参数调节时波形高频震荡，旋钮带有视觉阶梯刻度阻尼。",
+      "soWhat": "把复杂的工业遥测转化为极客梦寐以求的科幻飞船驾驶舱体验，大幅提升监控人员的疲劳耐受与操作确认感。"
+    }
+  },
+  {
+    "id": "drop-20260910-05",
+    "slug": "webgl-physical-refraction-iridescent-glass",
+    "title": "WebGL Physical Refraction & Iridescent Glass",
+    "category": "Web",
+    "creatorName": "@kaolti",
+    "creatorAvatar": "https://topinspo.design/media/36642323fbffa9b6.webp",
+    "description": "An interactive website landing page built with Three.js featuring real-time glass panels with physically accurate refraction, dispersion, and iridescence that respond to cursor movement.",
+    "industries": [
+      "Luxury",
+      "Creative Agency",
+      "Hardware"
+    ],
+    "colors": [
+      "#08080a",
+      "#e2e8f0"
+    ],
+    "styles": [
+      "Three.js Shader",
+      "Physical Refraction",
+      "Chromatic Dispersion"
+    ],
+    "sourceUrl": "https://x.com/kaolti/status/2050715622879760502",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/7b0711e47670a37d.mp4",
+    "poster": "https://topinspo.design/media/46696f04a74f90dc.webp",
+    "aspectW": 638,
+    "aspectH": 360,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/7b0711e47670a37d.mp4",
+        "poster": "https://topinspo.design/media/46696f04a74f90dc.webp",
+        "width": 638,
+        "height": 360,
+        "alt": "WebGL Physical Refraction & Iridescent Glass"
+      }
+    ],
+    "takeNumber": 503,
+    "act": "act3",
+    "isToday": true,
+    "dropDate": "2026-09-10",
+    "subtext": "真正的玻璃态不是 CSS 的模糊阴影，而是光线穿透介质时的折射、色散与光芒掠过边缘的彩虹晕染。",
+    "breakdown": {
+      "objective": "在高端品牌着陆页中呈现逼真的物理材质纵深，摆脱千篇一律的 CSS 纯模糊方案。",
+      "friction": "现代 UI 充斥着低质感的「伪拟态毛玻璃」，边缘生硬、色彩失真，无法体现顶级硬件或奢品的透光纯净度。",
+      "solution": "基于 WebGL/Three.js 自定义着色器，实时计算法线扰动、光线二次折射（Fresnel 反射）以及柯西色散公式，光斑随鼠标游移在卡片折角处迸发光谱级彩虹干涉。",
+      "soWhat": "无需任何 3D 建模离线渲染，网页端 60fps 实时还原价值连城的水晶质感，瞬间拉开与普通网页的审美断层。"
+    }
+  },
+  {
+    "id": "drop-20260910-06",
+    "slug": "autonomous-agent-state-capsule-telemetry",
+    "title": "Autonomous Agent State Capsule & Live Telemetry",
+    "category": "Motion",
+    "creatorName": "@jakubkrehel",
+    "creatorAvatar": "https://topinspo.design/media/407c3cf3922a2a6d.webp",
+    "description": "A minimal agent status component for a timeline view featuring an iridescent pill badge that animates through workflow states like Investigating, Reproducing, Verifying, and Waiting with elapsed.",
+    "industries": [
+      "AI Developer Tools",
+      "Agentic Systems",
+      "Cloud Infrastructure"
+    ],
+    "colors": [
+      "#0a0b0e",
+      "#a855f7"
+    ],
+    "styles": [
+      "Iridescent Capsule",
+      "Sub-second Telemetry",
+      "State Machine Transition"
+    ],
+    "sourceUrl": "https://x.com/jakubkrehel/status/2091550554900095256",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/2095dce1744c1574.mp4",
+    "poster": "https://topinspo.design/media/1887423a3f0f3c69.webp",
+    "aspectW": 568,
+    "aspectH": 270,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/2095dce1744c1574.mp4",
+        "poster": "https://topinspo.design/media/1887423a3f0f3c69.webp",
+        "width": 568,
+        "height": 270,
+        "alt": "Autonomous Agent State Capsule & Live Telemetry"
+      }
+    ],
+    "takeNumber": 504,
+    "act": "act4",
+    "isToday": true,
+    "dropDate": "2026-09-10",
+    "subtext": "AI 正在思考不是一个静态的转圈 Loading：给用户呈现呼吸的流光胶囊与步进耗时，将不确定性转化为掌控感。",
+    "breakdown": {
+      "objective": "在长链条 Autonomous Agent 执行复杂运维或 Debug 任务时，向开发者提供高可信度的工作状态流转可视化。",
+      "friction": "传统 AI 交互使用单一的 Loading Spinner 或文字跳动，用户完全无法预估 Agent 究竟在查日志、写代码还是卡死，产生严重的等待焦虑。",
+      "solution": "将 Agent 状态浓缩为变色渐变流光胶囊，平滑过渡「Investigating → Reproducing → Verifying → Complete」四大阶段，伴随毫秒级计时器与关键动作微标签展开。",
+      "soWhat": "把黑盒的 AI 推理过程具象化为一条精密流转的生产线，大幅降低用户中途取消率，建立极高的人机协同信任度。"
+    }
+  },
+  {
+    "id": "drop-20260910-07",
+    "slug": "multi-agent-intent-decision-approval-stack",
+    "title": "Multi-Agent Intent Decision & Approval Stack",
+    "category": "Product",
+    "creatorName": "@kvnkld",
+    "creatorAvatar": "https://topinspo.design/media/d55d45e8f4ab3414.webp",
+    "description": "A clean human-in-the-loop decision card stack presenting agent tool executions, risk levels, and one-tap diff authorizations with tactile affirmative feedback.",
+    "industries": [
+      "AI IDE",
+      "DevOps",
+      "Enterprise AI"
+    ],
+    "colors": [
+      "#0c0d12",
+      "#10b981"
+    ],
+    "styles": [
+      "Human-in-the-Loop",
+      "Diff Card Stack",
+      "Haptic Authorization"
+    ],
+    "sourceUrl": "https://x.com/kvnkld/status/2091872121857437849",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/01026436a60d4de5.mp4",
+    "poster": "https://topinspo.design/media/a757e27f7f96d0a6.webp",
+    "aspectW": 1920,
+    "aspectH": 1557,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/01026436a60d4de5.mp4",
+        "poster": "https://topinspo.design/media/a757e27f7f96d0a6.webp",
+        "width": 1920,
+        "height": 1557,
+        "alt": "Multi-Agent Intent Decision & Approval Stack"
+      }
+    ],
+    "takeNumber": 505,
+    "act": "act4",
+    "isToday": true,
+    "dropDate": "2026-09-10",
+    "subtext": "高阶的 Human-in-the-loop 界面，不是把一长串 JSON 扔给人类，而是把危险的操作精炼为一张优雅的签批决策卡。",
+    "breakdown": {
+      "objective": "在 AI Agent 自主调用系统工具与文件修改时，提供安全直观的「人类在环审批」卡片流。",
+      "friction": "很多 AI 工具在请求权限时弹出生硬的对话框或者密密麻麻的终端日志，普通用户很难迅速辨别命令风险，极易误触或直接放弃。",
+      "solution": "层叠式决策卡片清晰呈现「意图摘要、受影响文件 Diff、风险等级指示条」，操作者只需轻划或单键确认，卡片伴随震动回弹迅速归档执行下一项。",
+      "soWhat": "在保证绝对系统安全的前提下，将审批阻力降低 70%，实现人机意图的无缝交接与流水线式协同。"
+    }
+  },
+  {
+    "id": "drop-20260910-08",
+    "slug": "multi-modal-agent-workspace-bento-grid",
+    "title": "Multi-Modal Agent Workspace Bento Grid",
+    "category": "Product",
+    "creatorName": "@krgeorge",
+    "creatorAvatar": "https://topinspo.design/media/320bc5e76e9fdfcc.webp",
+    "description": "A polished interface concept presenting an AI assistant through a collection of mode-specific cards including chat, code building, image generation, and voice interactions.",
+    "industries": [
+      "Space Exploration",
+      "AI Assistant",
+      "Productivity"
+    ],
+    "colors": [
+      "#07080b",
+      "#f97316"
+    ],
+    "styles": [
+      "Bento Grid UI",
+      "Multi-Modal Synergy",
+      "Dynamic Layout Expansion"
+    ],
+    "sourceUrl": "https://x.com/krgeorge/status/2092019473058603059",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/62219a2d5a43dd9c.mp4",
+    "poster": "https://topinspo.design/media/209d66df13a90ee5.webp",
+    "aspectW": 482,
+    "aspectH": 270,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/62219a2d5a43dd9c.mp4",
+        "poster": "https://topinspo.design/media/209d66df13a90ee5.webp",
+        "width": 482,
+        "height": 270,
+        "alt": "Multi-Modal Agent Workspace Bento Grid"
+      }
+    ],
+    "takeNumber": 506,
+    "act": "act4",
+    "isToday": true,
+    "dropDate": "2026-09-10",
+    "subtext": "打破单一对话框的禁锢：把语言、视觉、代码与声音并列编排，才是多模态 Agent 的真正舞台。",
+    "breakdown": {
+      "objective": "构建下一代综合型 AI 助手的主工作台，同屏响应多维度并发生成与多模态交互。",
+      "friction": "将所有 AI 能力塞进一个狭长的垂直聊天气泡流中，图片、长代码块与音频交织在一起，页面凌乱且极难并行比对。",
+      "solution": "采用便当盒（Bento Grid）自适应栅格，实时联动「自然语言对话槽、代码构建沙盒、图像生成画布与音频延迟波形」四个专属功能卡片，激活时焦点卡片无缝拉伸。",
+      "soWhat": "把线性单向的问答对话升级为全维度的多媒体指挥舱，生产力密度提升 3 倍以上。"
+    }
+  },
+  {
+    "id": "drop-20260910-09",
+    "slug": "real-time-ray-traced-cursor-light-emitter",
+    "title": "Real-Time Ray-Traced Cursor Light Emitter",
+    "category": "3D",
+    "creatorName": "@matiNotFound",
+    "creatorAvatar": "https://topinspo.design/media/9e7fe3a8465ba26d.webp",
+    "description": "A custom WebGL shader for a Vercel landing page that ray-traces lights locally, bakes them into small textures, and renders glowing point lights that follow the cursor across a dark hero section.",
+    "industries": [
+      "Developer Platform",
+      "Next-Gen Web",
+      "Branding"
+    ],
+    "colors": [
+      "#000000",
+      "#3b82f6"
+    ],
+    "styles": [
+      "Local Ray Tracing",
+      "Baked Lightmap",
+      "Dynamic Point Light"
+    ],
+    "sourceUrl": "https://x.com/matiNotFound/status/2090868943883776227",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/6dabae70d36a1265.mp4",
+    "poster": "https://topinspo.design/media/b2c7ed180dc5d225.webp",
+    "aspectW": 596,
+    "aspectH": 360,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/6dabae70d36a1265.mp4",
+        "poster": "https://topinspo.design/media/b2c7ed180dc5d225.webp",
+        "width": 596,
+        "height": 360,
+        "alt": "Real-Time Ray-Traced Cursor Light Emitter"
+      }
+    ],
+    "takeNumber": 507,
+    "act": "act5",
+    "isToday": true,
+    "dropDate": "2026-09-10",
+    "subtext": "让暗黑界面的每一次指针游走，都变成在黑暗洞穴中点亮手电筒的光影探索。",
+    "breakdown": {
+      "objective": "在科技品牌官网暗黑 Hero 首屏，制造令人过目难忘的高保真光影交互氛围。",
+      "friction": "常规鼠标跟随光晕只是在顶层覆盖一个生硬的 CSS 径向渐变，无法与底层页面元素产生真实的三维遮挡与明暗反射。",
+      "solution": "在客户端利用 WebGL 自定义轻量光线追踪 Shader，将网格几何烘焙进紧凑纹理，光标移动时计算实时点光源在多层凹凸材质上的二次漫反射与柔和衰减。",
+      "soWhat": "用电影级的光线渲染为冷峻的技术文档与平台首页注入呼吸感，品牌高级感瞬间跃迁至行业顶峰。"
+    }
+  },
+  {
+    "id": "drop-20260910-10",
+    "slug": "acid-lime-fluid-cursor-monospaced-archive",
+    "title": "Acid Lime Fluid Cursor & Monospaced Archive",
+    "category": "Branding",
+    "creatorName": "@raunofreiberg",
+    "creatorAvatar": "https://topinspo.design/media/9a878970868ffe6b.webp",
+    "description": "A personal portfolio site for interaction designer Rauno Freiberg featuring oversized bold typography, a neon yellow blob cursor, and minimal white layouts linking to projects and field notes.",
+    "industries": [
+      "Design Engineering",
+      "Personal Brand",
+      "Typography"
+    ],
+    "colors": [
+      "#ffffff",
+      "#d4ff00"
+    ],
+    "styles": [
+      "Acid Lime Blob",
+      "Magnetic Typography Lock",
+      "Editorial Grid"
+    ],
+    "sourceUrl": "https://x.com/raunofreiberg/status/2090148007199072456",
+    "isVideo": true,
+    "videoSrc": "https://topinspo.design/media/e78e7de9c825452c.mp4",
+    "poster": "https://topinspo.design/media/cd03dd3ec4d3495a.webp",
+    "aspectW": 524,
+    "aspectH": 360,
+    "slides": null,
+    "media": [
+      {
+        "type": "video",
+        "src": "https://topinspo.design/media/e78e7de9c825452c.mp4",
+        "poster": "https://topinspo.design/media/cd03dd3ec4d3495a.webp",
+        "width": 524,
+        "height": 360,
+        "alt": "Acid Lime Fluid Cursor & Monospaced Archive"
+      }
+    ],
+    "takeNumber": 508,
+    "act": "act5",
+    "isToday": true,
+    "dropDate": "2026-09-10",
+    "subtext": "极致的克制加上一抹极度挑衅的荧光酸性绿：这就是顶级交互工程师的视觉签名。",
+    "breakdown": {
+      "objective": "在黑白高对比的排版中建立极具侵略性又兼具丝滑手感的创作者个人品牌辨识度。",
+      "friction": "黑白极简排版极易流于寡淡枯燥，缺乏与访客鼠标互动时的动态趣味与视觉焦点引导。",
+      "solution": "黑白纯净底色之上，部署一枚带有弹簧拉伸物理的荧光柠檬绿（Acid Lime）水滴指针，靠近超大字阶标题与项目链接时发生磁吸包裹形变，并吸附锚定排印中轴线。",
+      "soWhat": "把普通鼠标指针变成了一把充满张力的荧光手术刀，每一次悬停都成为一次极富冲击力的美学宣言。"
+    }
+  },
+  {
     "id": "drop-20260907-01",
     "slug": "linear-style-multidimensional-filter-search",
     "title": "Linear-Style Multi-Dimensional Filter & Command Search",
@@ -40,7 +550,7 @@
     ],
     "takeNumber": 491,
     "act": "act1",
-    "isToday": true,
+    "isToday": false,
     "dropDate": "2026-09-07",
     "subtext": "不要把数据库字段直接甩到用户脸上：把铺满一屏的庞杂表单，收敛进一个仿自然语言的优雅输入框。",
     "breakdown": {
@@ -91,7 +601,7 @@
     ],
     "takeNumber": 492,
     "act": "act5",
-    "isToday": true,
+    "isToday": false,
     "dropDate": "2026-09-07",
     "subtext": "用 CSS clamp() 彻底告别屏幕宽度跳变时的文字断行，标题字号随视口如丝绸般贴合舒展。",
     "breakdown": {
@@ -142,7 +652,7 @@
     ],
     "takeNumber": 493,
     "act": "act3",
-    "isToday": true,
+    "isToday": false,
     "dropDate": "2026-09-07",
     "subtext": "规矩是用来立秩序的，破规矩是用来造高潮的：故意超出栅格边界 30 像素，创造强烈的空间张力。",
     "breakdown": {
@@ -193,7 +703,7 @@
     ],
     "takeNumber": 494,
     "act": "act2",
-    "isToday": true,
+    "isToday": false,
     "dropDate": "2026-09-07",
     "subtext": "模拟航空仪表的弹簧阻尼：把抽象的数值波动，做成指尖能感知到重力与摩擦的金属指针。",
     "breakdown": {
@@ -244,7 +754,7 @@
     ],
     "takeNumber": 495,
     "act": "act4",
-    "isToday": true,
+    "isToday": false,
     "dropDate": "2026-09-07",
     "subtext": "好的科技是让人感知不到科技的存在：把数十道分支逻辑吞进底层，把极致简单留给用户。",
     "breakdown": {
@@ -295,7 +805,7 @@
     ],
     "takeNumber": 496,
     "act": "act1",
-    "isToday": true,
+    "isToday": false,
     "dropDate": "2026-09-07",
     "subtext": "第一幕的悬念与奖励：把新用户注册后的第一次进入，做成开启隐藏宝箱的戏剧高潮。",
     "breakdown": {
@@ -346,7 +856,7 @@
     ],
     "takeNumber": 497,
     "act": "act3",
-    "isToday": true,
+    "isToday": false,
     "dropDate": "2026-09-07",
     "subtext": "信息流不是杂乱的货架，而是一场精心策划的视觉巡礼；冷暖尺幅错落，长页面下滑如交响乐。",
     "breakdown": {
@@ -397,7 +907,7 @@
     ],
     "takeNumber": 498,
     "act": "act2",
-    "isToday": true,
+    "isToday": false,
     "dropDate": "2026-09-07",
     "subtext": "让数据具备生命的心跳：微小的光斑脉冲与翻牌微动效，实时传递系统的活力与确定性。",
     "breakdown": {
@@ -1046,7 +1556,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把传统的繁琐录入，转变为极具电影开场感的入场仪式。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "12bcd321-8020-4933-85ad-1e96a77bf793",
@@ -1091,7 +1602,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-jd5xf5j-loot-app-onboarding",
@@ -1129,7 +1641,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-4qrfoic-designer-portfolio-theme-toggle",
@@ -1167,7 +1680,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-7ndfild-custom-icon-badges",
@@ -1205,7 +1719,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "仪式感引导：通过层级揭示，降低高价值动作的认知负荷。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-0zcxn9i-real-time-glass-website",
@@ -1243,7 +1758,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "打破平面的镜头纵深：让三维物理在浏览器中自由呼吸。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-3yut57l-design-agency-website",
@@ -1281,7 +1797,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "流体与玻璃折射：用逼真的光影质感重塑数字产品的空间定调。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-vmmug5r-type-face",
@@ -1319,7 +1836,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-4cbs9fj-designcode-5-website",
@@ -1357,7 +1875,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "克制的留白与引导，让用户在3秒内进入心流状态。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-80xzowo-pegassi-ascension-ep-site",
@@ -1395,7 +1914,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-476ip78-portfolio-boarding-pass-intro",
@@ -1433,7 +1953,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-3pxtfdl-saas-features-motion-exploration",
@@ -1471,7 +1992,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ghhhqxm-obscura-visuals-gradient-pack",
@@ -1509,7 +2031,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-zq0kule-aave-app-onboarding-flow",
@@ -1547,7 +2070,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ycdnfr7-pressure-monitor-interface",
@@ -1585,7 +2109,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-e6wwgzu-nfl-gametime-for-x",
@@ -1623,7 +2148,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-coqbw6n-project-becoming",
@@ -1661,7 +2187,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "流体与玻璃折射：用逼真的光影质感重塑数字产品的空间定调。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-cozly8i-nvidia-earnings-call-posters",
@@ -1699,7 +2226,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-kgomi7e-arc-ai-manufacturing-brand",
@@ -1737,7 +2265,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-t5ijrqa-nvidia-earnings-call-posters",
@@ -1775,7 +2304,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-xpwv39t-product-feature-illustrations",
@@ -1813,7 +2343,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-yr4qskh-jesper-landberg-portfolio",
@@ -1851,7 +2382,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "流体与玻璃折射：用逼真的光影质感重塑数字产品的空间定调。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-leos28t-agent-status-component",
@@ -1889,7 +2421,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-7eq5d9w-koi-fish-portfolio-hero",
@@ -1927,7 +2460,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-1hkeftc-document-signature-mobile-ui",
@@ -1965,7 +2499,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-saizbal-messages-icon-unread-concept",
@@ -2003,7 +2538,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "打破平面的镜头纵深：让三维物理在浏览器中自由呼吸。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "da5aa40d-4827-4733-a580-9971ee055092",
@@ -2041,7 +2577,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "4c4c7d16-e736-4647-a1ba-3121b0135d8f",
@@ -2079,7 +2616,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-djed9hu-smart-vector-drawing-tool",
@@ -2117,7 +2655,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-u1z1d7p-interfere-website-explorations",
@@ -2155,7 +2694,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "仪式感引导：通过层级揭示，降低高价值动作的认知负荷。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-9fk9qlc-personal-portfolio-with-drag-moodboard",
@@ -2193,7 +2733,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-9akeal7-ai-agent-hand-tracking-ui",
@@ -2231,7 +2772,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-nog55iz-feel-it-all-around",
@@ -2269,7 +2811,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ayc72nk-card-details-microinteraction",
@@ -2307,7 +2850,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-b6hr2e5-sidebar-sub-menu-interaction",
@@ -2345,7 +2889,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-7cft7yp-dark-mode-knob-ui",
@@ -2383,7 +2928,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-7aizkgn-ai-assistant-card-ui",
@@ -2421,7 +2967,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-jgrgggm-technical-collage-illustration",
@@ -2459,7 +3006,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ghuhuwu-factory-automation-interface",
@@ -2497,7 +3045,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "着色器算法与真实渲染：数字质感对用户感官的强力占领。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-kwm975n-vercel-for-retail-logo",
@@ -2535,7 +3084,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "b4e91477-68dc-4b8d-b02a-2deeaabb5022",
@@ -2573,7 +3123,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-danf4d1-tachometer-react-component",
@@ -2611,7 +3162,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-nizbvg5-1042-studio-seven-year-posters",
@@ -2649,7 +3201,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "色彩的情绪隐喻：用冷暖对比无声传递品牌的高级克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-gnxw7rg-antimetal-product-pages",
@@ -2687,7 +3240,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-28k9gey-jarvis-dropdown-ui",
@@ -2725,7 +3279,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "940dc798-9306-46b2-a973-0050753f78d7",
@@ -2763,7 +3318,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "02c0c01c-4ac5-4168-8f62-26a4fdf347d2",
@@ -2801,7 +3357,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-dh4rv78-radius-browser-landing-page",
@@ -2839,7 +3396,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-f2t9vki-string-physics-watch-face",
@@ -2877,7 +3435,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-llqwieb-psa-trading-card-design",
@@ -2915,7 +3474,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "仪式感引导：通过层级揭示，降低高价值动作的认知负荷。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-xh7hpkl-scrollbar-but-cooler",
@@ -2953,7 +3513,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把传统的繁琐录入，转变为极具电影开场感的入场仪式。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-tbhz0mm-spider-man-web-dropdown",
@@ -2991,7 +3552,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-dhyqx6r-offgrid-glass-logo-animation",
@@ -3029,7 +3591,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "无界画布与自由镜头：将信息层级转化为可探索的空间旅程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-aqafedm-generative-tile-animation",
@@ -3067,7 +3630,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-0urvf7m-rosso-corsa-poster-duo",
@@ -3105,7 +3669,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-0eq6aaq-macos-app-icon-sketches",
@@ -3143,7 +3708,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "打破平面的镜头纵深：让三维物理在浏览器中自由呼吸。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ze93vm0-braille-loader-microinteraction",
@@ -3181,7 +3747,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-i2tuxqa-css-3d-token-coins",
@@ -3219,7 +3786,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "无界画布与自由镜头：将信息层级转化为可探索的空间旅程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-bcfjpfx-chatgpt-photo-attach-gesture",
@@ -3257,7 +3825,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-3iu57ag-ios-keyboard-redesign-concept",
@@ -3295,7 +3864,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "仪式感引导：通过层级揭示，降低高价值动作的认知负荷。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-xzzxlfl-morphic-404-page-interaction",
@@ -3333,7 +3903,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把传统的繁琐录入，转变为极具电影开场感的入场仪式。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-2qggxml-ray-traced-webgl-shader",
@@ -3371,7 +3942,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "流体与玻璃折射：用逼真的光影质感重塑数字产品的空间定调。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-2ymiczl-grok-bot-brand-animation",
@@ -3409,7 +3981,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-0flzv7d-deepsec-hero-section",
@@ -3447,7 +4020,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "克制的留白与引导，让用户在3秒内进入心流状态。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-7ajurjv-personal-site-photo-gallery",
@@ -3485,7 +4059,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-1yh1tvj-axiom-docs-navigation-ui",
@@ -3523,7 +4098,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-qkfor3e-3d-product-explorations",
@@ -3561,7 +4137,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "流体与玻璃折射：用逼真的光影质感重塑数字产品的空间定调。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-kt7lpcu-ai-voice-state-orb",
@@ -3599,7 +4176,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-e58rcty-linear-ui-components",
@@ -3637,7 +4215,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "克制的留白与引导，让用户在3秒内进入心流状态。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ak2skzd-qr-code-reveal-animation",
@@ -3675,7 +4254,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-noobdsb-quiver-ai-sidebar",
@@ -3713,7 +4293,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "7e0142e4-7c44-4027-b73f-4e2c7e40adf8",
@@ -3751,7 +4332,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-sibo8nl-portfolio-page-transition",
@@ -3789,7 +4371,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-m8kx754-dark-isometric-illustrations",
@@ -3827,7 +4410,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-q66pm70-pixel-art-2-5d-motion-experiment",
@@ -3865,7 +4449,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "仪式感引导：通过层级揭示，降低高价值动作的认知负荷。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-nmytz9t-calendly-brand-identity",
@@ -3903,7 +4488,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-py91cpk-rauno-freiberg-portfolio",
@@ -3941,7 +4527,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "第一幕的悬念感：用微物理动效化解新用户的初次抵触。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-hp1ir5a-messaging-app-state-machine",
@@ -3979,7 +4566,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-cmgrg7l-gooey-speed-dial",
@@ -4017,7 +4605,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-j7ks1ld-skeuomorphic-css-button",
@@ -4055,7 +4644,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-rx6z244-multi-action-fab-interaction",
@@ -4093,7 +4683,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把传统的繁琐录入，转变为极具电影开场感的入场仪式。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-97iqamt-data-tree-component",
@@ -4131,7 +4722,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-lt4mvi9-soundcore-ai-sign-up",
@@ -4169,7 +4761,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-zpci603-human-to-machine-docs-transition",
@@ -4207,7 +4800,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-c6edu1l-liquid-clock-animation",
@@ -4245,7 +4839,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "仪式感引导：通过层级揭示，降低高价值动作的认知负荷。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-6ts0h72-toggle-switch-stretch-animation",
@@ -4283,7 +4878,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "419fa08e-bfab-4b7d-9750-7e4097947adc",
@@ -4321,7 +4917,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-l7l6kda-anime-fashion-character-concepts",
@@ -4359,7 +4956,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-4rhoxut-autumn-pricing-homepage",
@@ -4397,7 +4995,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-41h5e4a-alarm-app-concepts",
@@ -4435,7 +5034,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-qvrzk65-css-anchor-filter-dot",
@@ -4473,7 +5073,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-zlhggk5-blue-mascot-animation",
@@ -4511,7 +5112,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-9mx0r00-check-chess-app",
@@ -4549,7 +5151,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "契约式交互：将数字签名打造成用户与产品间的庄严契约。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ticqkv8-tactile-webgl-shader-ui",
@@ -4587,7 +5190,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-x0bwgj8-app-architecture-map-tool",
@@ -4625,7 +5229,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-v5y3h29-ipod-ai-agents-concept",
@@ -4663,7 +5268,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-xlkm77w-co-watch-clock-web-app",
@@ -4701,7 +5307,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-nxc7wh3-animated-dropdown-components",
@@ -4739,7 +5346,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "无界画布与自由镜头：将信息层级转化为可探索的空间旅程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-2m9qu0e-becoming-editorial-project",
@@ -4777,7 +5385,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-bqwzi60-logo-light-physics-tool",
@@ -4815,7 +5424,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "仪式感引导：通过层级揭示，降低高价值动作的认知负荷。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ltx22t9-slide-away-input-prototype",
@@ -4853,7 +5463,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "字阶之间的张力与叙事，构成了产品的精神骨相。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-bjomut6-subway-surfers-loading-state",
@@ -4891,7 +5502,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "33e60db9-9c1d-476e-9b93-a9d3c780d196",
@@ -4929,7 +5541,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ls1mssn-holographic-glitter-card-effect",
@@ -4967,7 +5580,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-6nfeb71-claude-flash-era-chat-ui",
@@ -5005,7 +5619,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-043bi4o-myvinyl-app-icon",
@@ -5043,7 +5658,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "打破平面的镜头纵深：让三维物理在浏览器中自由呼吸。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-oh49fds-svg-highlighted-navigation",
@@ -5081,7 +5697,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-iodctcs-delete-confirm-microinteraction",
@@ -5119,7 +5736,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "契约式交互：将数字签名打造成用户与产品间的庄严契约。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-okkc3w9-digital-stamp-collection-site",
@@ -5157,7 +5775,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-4ix7zss-walking-figure-animation",
@@ -5195,7 +5814,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ikqmj6v-ai-token-poker-app",
@@ -5233,7 +5853,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-e4rkkp3-dark-card-carousel-component",
@@ -5271,7 +5892,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-49ta02w-3d-neon-logo-signs",
@@ -5309,7 +5931,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-rih5dm6-portfolio-carousel-component",
@@ -5347,7 +5970,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-kcb8hlp-rotating-image-sphere-idle-animation",
@@ -5385,7 +6009,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "重力感与视差滚动：打造身临其境的交互叙事剧场。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-m7tyqez-animated-app-icons",
@@ -5423,7 +6048,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把传统的繁琐录入，转变为极具电影开场感的入场仪式。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-1dgudko-paper-app-shaders",
@@ -5461,7 +6087,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "流体与玻璃折射：用逼真的光影质感重塑数字产品的空间定调。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "682b58b3-17f8-4a80-83f3-505796db9102",
@@ -5499,7 +6126,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "色彩的情绪隐喻：用冷暖对比无声传递品牌的高级克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-z0sjw9w-obsession-studio-logo-identity",
@@ -5537,7 +6165,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "视觉叙事的锚点：用强烈的图形符号在用户心智中深深盖章。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-x5xcn6c-meeting-notification-modal",
@@ -5575,7 +6204,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-6lhc7lj-particle-burst-motion-study",
@@ -5613,7 +6243,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-dr4g2rs-macos-custom-shelf-utility",
@@ -5651,7 +6282,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-epc3qw5-x-money-mobile-ui",
@@ -5689,7 +6321,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "契约式交互：将数字签名打造成用户与产品间的庄严契约。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-6n33w6i-instagram-brand-system",
@@ -5727,7 +6360,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-b44a9i5-lovable-journey-stamp-ui",
@@ -5765,7 +6399,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "仪式感引导：通过层级揭示，降低高价值动作的认知负荷。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-btki5jn-expressive-face-icon-animation",
@@ -5803,7 +6438,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把传统的繁琐录入，转变为极具电影开场感的入场仪式。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-lo3cyks-liquid-glass-infinite-carousel",
@@ -5841,7 +6477,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "流体与玻璃折射：用逼真的光影质感重塑数字产品的空间定调。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-0e92wv3-fluffy-3d-icon-renders",
@@ -5879,7 +6516,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-a2m5fk4-paper-plane-email-send",
@@ -5917,7 +6555,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "8dd19892-f38a-47c4-8b76-4ef1bd890d1a",
@@ -5955,7 +6594,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-8nhplkc-interactive-scroll-section",
@@ -5993,7 +6633,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ymo5lai-lightspark-website",
@@ -6031,7 +6672,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "8ed0dde7-c6f8-44c3-b2e6-4a434d698ddc",
@@ -6069,7 +6711,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-qxltgr6-particle-grain-statue-effect",
@@ -6107,7 +6750,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-gchk08z-wireframe-worm-colony",
@@ -6145,7 +6789,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-1kabfx2-solcard-card-selection-ui",
@@ -6183,7 +6828,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-kva1lco-chess-loading-screen",
@@ -6221,7 +6867,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-mgullnt-ai-bot-teammate-app",
@@ -6259,7 +6906,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-tkz7ss0-agentmail-brand-identity",
@@ -6297,7 +6945,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-60uda7e-grok-bot-icon-animation",
@@ -6335,7 +6984,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-lbvxhdy-receipt-printer-checkout",
@@ -6373,7 +7023,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-rcsizbt-vintage-stamp-design-collection",
@@ -6411,7 +7062,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "第一幕的悬念感：用微物理动效化解新用户的初次抵触。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-qbx3yl2-freedrw-waitlist-page",
@@ -6449,7 +7101,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-sjkh2u7-x-com",
@@ -6487,7 +7140,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "克制的留白与引导，让用户在3秒内进入心流状态。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-bfmltw8-genie-effect-for-the-web",
@@ -6525,7 +7179,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "重力感与视差滚动：打造身临其境的交互叙事剧场。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-2ssskgs-softie-interactive-toy",
@@ -6563,7 +7218,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "打破平面的镜头纵深：让三维物理在浏览器中自由呼吸。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "bd294ad4-8419-4d34-b69e-7f87e25b1837",
@@ -6601,7 +7257,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-qlwb6b3-chess-app-icon",
@@ -6639,7 +7296,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "契约式交互：将数字签名打造成用户与产品间的庄严契约。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-qyj74f8-personal-site-easter-egg",
@@ -6677,7 +7335,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "克制的留白与引导，让用户在3秒内进入心流状态。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-emjkdwh-run-poster-series",
@@ -6715,7 +7374,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "设计工程师的审美护城河：将经典平面语法注入现代前端代码。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-3pa6ojq-sauna-agency-mist-effect",
@@ -6753,7 +7413,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "打破平面的镜头纵深：让三维物理在浏览器中自由呼吸。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-2ugpqkg-cards-motion-exploration",
@@ -6791,7 +7452,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-t41jbsu-cloudflare-workers-web-section",
@@ -6829,7 +7491,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-uy89u6i-age-progression-slider",
@@ -6867,7 +7530,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-5give8d-micrographic-design-studies",
@@ -6905,7 +7569,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "仪式感引导：通过层级揭示，降低高价值动作的认知负荷。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-bx9ytkc-x-logo-redesign-concept",
@@ -6943,7 +7608,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-p5zcex6-paper-crumple-discard-interaction",
@@ -6981,7 +7647,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "流体与玻璃折射：用逼真的光影质感重塑数字产品的空间定调。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-8sy6r7f-asmr-portfolio-interactions",
@@ -7019,7 +7686,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-p9iui6l-lenticular-card",
@@ -7057,7 +7725,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ivwtfzo-tiny-computer-co-website",
@@ -7095,7 +7764,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "设计工程师的审美护城河：将经典平面语法注入现代前端代码。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-9q6b904-holo-card-gyroscope-effect",
@@ -7133,7 +7803,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ovkkk8y-scroll-driven-reviews-drawer",
@@ -7171,7 +7842,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-36mpybn-interface-3-1-ui-components",
@@ -7209,7 +7881,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "ed960e74-fe03-434b-b6ad-e676c9025ab3",
@@ -7247,7 +7920,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ot50y4o-heraldic-lion-mark",
@@ -7285,7 +7959,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "设计工程师的审美护城河：将经典平面语法注入现代前端代码。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-bsue5x1-gradient-artifacts",
@@ -7323,7 +7998,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-g1c0ff7-github-contribution-filler",
@@ -7361,7 +8037,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-iskese3-endless-02-cover",
@@ -7399,7 +8076,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ts8hc17-testimonials-puzzle-ui",
@@ -7437,7 +8115,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-h4q8s9i-igochi-studio-website",
@@ -7475,7 +8154,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "设计工程师的审美护城河：将经典平面语法注入现代前端代码。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-qjbqqor-emoji-reaction-component",
@@ -7513,7 +8193,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-glbkuw2-custom-graphics-in-figma",
@@ -7551,7 +8232,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-b5tfl45-shader-animated-glass-buttons",
@@ -7589,7 +8271,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "无界画布与自由镜头：将信息层级转化为可探索的空间旅程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-elc3do3-mymind-sticker-collection",
@@ -7627,7 +8310,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-mn1ab71-melt-app-concept",
@@ -7665,7 +8349,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-oxcci37-ai-concept-motion-study",
@@ -7703,7 +8388,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-wkk2oui-edible-button-microinteraction",
@@ -7741,7 +8427,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-yk90hzb-physics-particle-text-deletion",
@@ -7779,7 +8466,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "色彩的情绪隐喻：用冷暖对比无声传递品牌的高级克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-b9n7kb1-live-audio-recorder-ui",
@@ -7817,7 +8505,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "克制的留白与引导，让用户在3秒内进入心流状态。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-fmr33wl-swiftui-ripple-transition",
@@ -7855,7 +8544,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-7ukq5lp-brand-assets-icon-burst",
@@ -7893,7 +8583,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把传统的繁琐录入，转变为极具电影开场感的入场仪式。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-wciy83e-liquid-menu-interaction",
@@ -7931,7 +8622,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-gfhxd85-rotating-wireframe-globe-collage",
@@ -7969,7 +8661,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "无界画布与自由镜头：将信息层级转化为可探索的空间旅程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-j749047-journal-app-detail-transition",
@@ -8007,7 +8700,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-709j04v-bills-date-picker-widget",
@@ -8045,7 +8739,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-x2hewj5-node-connection-interaction",
@@ -8083,7 +8778,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-txipaeb-silicon-mania-website",
@@ -8121,7 +8817,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "第一幕的悬念感：用微物理动效化解新用户的初次抵触。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-yojfzep-cd-player",
@@ -8159,7 +8856,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-txajlc0-insight-studio-identity",
@@ -8197,7 +8895,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "视觉叙事的锚点：用强烈的图形符号在用户心智中深深盖章。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-pmoemib-human-like-ai-response",
@@ -8235,7 +8934,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "4ce1693f-1f06-4e0b-8b4f-67e2c806f757",
@@ -8273,7 +8973,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "18f3d289-232e-426f-ba57-790ccfe95282",
@@ -8311,7 +9012,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-p9fy1ib-animated-404-page",
@@ -8349,7 +9051,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "4f967dbe-415c-412d-a1c3-7d01d222164a",
@@ -8387,7 +9090,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-a9bvk7u-palantir-x-quartr-posters",
@@ -8425,7 +9129,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "仪式感引导：通过层级揭示，降低高价值动作的认知负荷。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-s42cpey-palantir-x-quartr-campaign-posters",
@@ -8463,7 +9168,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-iaje7yj-animated-x-grid-study",
@@ -8501,7 +9207,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "流体与玻璃折射：用逼真的光影质感重塑数字产品的空间定调。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-3ymz32g-hud-loading-screen",
@@ -8539,7 +9246,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-fyvqnng-text-selection-flowers",
@@ -8577,7 +9285,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-pkzhvth-tech-cards-exploration",
@@ -8615,7 +9324,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "604e62c4-2452-420d-bceb-7af93f071e1d",
@@ -8653,7 +9363,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-net6aot-generative-tile-study",
@@ -8691,7 +9402,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-i5rpqy2-ai-avatar-character",
@@ -8729,7 +9441,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-umlqnfi-x-bookmark-flow",
@@ -8767,7 +9480,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ozxdy5c-glitch-fashion",
@@ -8805,7 +9519,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ezb6sgb-pixel-art-vfx-sprites",
@@ -8843,7 +9558,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ipy20r1-alpha-trading-app",
@@ -8881,7 +9597,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-hhxra7i-liquid-glass-waves",
@@ -8919,7 +9636,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-4c9xsq0-dark-mode-auth-screens",
@@ -8957,7 +9675,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "克制的留白与引导，让用户在3秒内进入心流状态。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-7upeli1-uploading-button",
@@ -8995,7 +9714,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "9cc229fb-ae04-4e53-b579-4a2cebed6754",
@@ -9039,7 +9759,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "648e8af3-b1b8-4e7e-9f05-b87343033265",
@@ -9077,7 +9798,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ds7ot78-ai-task-progress-pills",
@@ -9115,7 +9837,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-aqyvgwe-co-watch-concept",
@@ -9153,7 +9876,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-3l0jwwr-cash-app-transfer",
@@ -9191,7 +9915,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "重力感与视差滚动：打造身临其境的交互叙事剧场。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-3vq05qv-time",
@@ -9229,7 +9954,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-b8wcg5u-ghost-app-icon-concepts",
@@ -9267,7 +9993,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "第一幕的悬念感：用微物理动效化解新用户的初次抵触。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-3487r82-restaurant-menu-designs",
@@ -9305,7 +10032,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-2b9hsu6-drawesome",
@@ -9343,7 +10071,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-oy4rlv2-particle-figure-descent",
@@ -9381,7 +10110,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-7dtv105-elsewhere-together",
@@ -9419,7 +10149,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-pf04jr1-ai-image-generation-reveal",
@@ -9457,7 +10188,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-br22r7m-mason-personal-site",
@@ -9495,7 +10227,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "契约式交互：将数字签名打造成用户与产品间的庄严契约。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ryf0iig-quartr-x-meta-earnings-posters",
@@ -9533,7 +10266,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-aac4r5g-tailwind-smooth-shadows-plugin",
@@ -9571,7 +10305,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "4b52d929-c7ab-4f31-b0f9-c48fa350c1df",
@@ -9609,7 +10344,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-uuhoew2-404-chicken-flock-animation",
@@ -9647,7 +10383,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-dr1cn19-offline-website-footer",
@@ -9685,7 +10422,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "无界画布与自由镜头：将信息层级转化为可探索的空间旅程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-38q29tn-lovable-artifacts",
@@ -9723,7 +10461,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-n8kw14j-app-icon-collection",
@@ -9761,7 +10500,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "仪式感引导：通过层级揭示，降低高价值动作的认知负荷。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-5hcgccv-poolside-app-icons",
@@ -9799,7 +10539,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-rkouarq-border-beam-effect",
@@ -9837,7 +10578,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "海报级排印美学：让每一个界面都具备可被框裱的艺术质感。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-heutcov-ai-branding-concepts",
@@ -9875,7 +10617,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-w9o5qci-dial-up-face-assembly",
@@ -9913,7 +10656,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ym7p38a-liquid-glass-design-system",
@@ -9951,7 +10695,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "重力感与视差滚动：打造身临其境的交互叙事剧场。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "c6539493-c0f6-4682-9794-e75caffdf3ca",
@@ -9989,7 +10734,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ebs7osa-wireframe-studio-about-page",
@@ -10027,7 +10773,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "第一幕的悬念感：用微物理动效化解新用户的初次抵触。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-mk1ovg5-vercel-open-source-page",
@@ -10065,7 +10812,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "色彩的情绪隐喻：用冷暖对比无声传递品牌的高级克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-gkzfb0h-micro-ii-controller",
@@ -10103,7 +10851,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-3y33ule-fasting-app-ui",
@@ -10141,7 +10890,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-neqco7a-tornado-text-reveal",
@@ -10179,7 +10929,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ogl6wug-kei-design-studio",
@@ -10217,7 +10968,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "第一幕的悬念感：用微物理动效化解新用户的初次抵触。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-66s1tbe-five-into-one",
@@ -10255,7 +11007,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-bjo5dq5-observatory-thought-specimen",
@@ -10293,7 +11046,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-9d5debl-analog-digital-collages",
@@ -10331,7 +11085,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "仪式感引导：通过层级揭示，降低高价值动作的认知负荷。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-4yuu0qi-pinchable-fabric-sheet",
@@ -10369,7 +11124,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-phwy9wi-bookmark-button",
@@ -10407,7 +11163,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "流体与玻璃折射：用逼真的光影质感重塑数字产品的空间定调。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-t9wrtq2-cookie-banner-destruction",
@@ -10445,7 +11202,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-k58byop-gatekeeper-letter-reveal",
@@ -10483,7 +11241,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "视觉叙事的锚点：用强烈的图形符号在用户心智中深深盖章。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-0u2epgi-interface-craft-gift",
@@ -10521,7 +11280,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-xdwftai-vercel-open-source-hero",
@@ -10559,7 +11319,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-tr9wgma-otp-input-component",
@@ -10597,7 +11358,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-vmuh9yj-paper-series-a",
@@ -10635,7 +11397,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "色彩的情绪隐喻：用冷暖对比无声传递品牌的高级克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-fe5mxhy-dream-journal-app",
@@ -10673,7 +11436,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-8kv9hsa-asset-toggle-component",
@@ -10711,7 +11475,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "仪式感引导：通过层级揭示，降低高价值动作的认知负荷。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-6t7kjzg-inflatable-button",
@@ -10749,7 +11514,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-bab55za-rotating-torus-loop",
@@ -10787,7 +11553,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-hpqb0of-atlas-for-mac-app",
@@ -10825,7 +11592,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "契约式交互：将数字签名打造成用户与产品间的庄严契约。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-sueneo0-infinite-rolling-paper-strip",
@@ -10863,7 +11631,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "着色器算法与真实渲染：数字质感对用户感官的强力占领。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-3edl2eq-ai-task-app-input-transitions",
@@ -10901,7 +11670,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "b39e29f7-8630-42fc-b623-674ba281ae36",
@@ -10939,7 +11709,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-onnpyli-portfolio-website-wip",
@@ -10977,7 +11748,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ya12g38-ai-tech-brand-badges",
@@ -11015,7 +11787,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "39c32b8d-43ee-4aa2-8075-25af83bfa673",
@@ -11053,7 +11826,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-wvg08yx-jb-eudeline-portfolio",
@@ -11091,7 +11865,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-wa65ka2-ai-thinking-panel-reveal",
@@ -11129,7 +11904,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-jjqqing-macos-icon-pack",
@@ -11167,7 +11943,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "76f678ec-15b4-4a99-b13c-7fdae8ef6512",
@@ -11205,7 +11982,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-g27oces-the-odyssey-posters",
@@ -11243,7 +12021,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-j7dwx4h-spanish-learning-app-website",
@@ -11281,7 +12060,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "仪式感引导：通过层级揭示，降低高价值动作的认知负荷。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-rs5w3r9-jelly-slider",
@@ -11319,7 +12099,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "打破平面的镜头纵深：让三维物理在浏览器中自由呼吸。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-fpb49nb-jelly-switch",
@@ -11357,7 +12138,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-0303xu7-soundre-website-loader",
@@ -11395,7 +12177,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "契约式交互：将数字签名打造成用户与产品间的庄严契约。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "97c318eb-a881-44a0-9f16-30d0c688bb92",
@@ -11433,7 +12216,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-nmj9mrx-newsletter-issue-no-01",
@@ -11471,7 +12255,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "仪式感引导：通过层级揭示，降低高价值动作的认知负荷。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-0pqbmvl-aave-cards",
@@ -11509,7 +12294,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-76l5dqr-etch-a-sketch-signature",
@@ -11547,7 +12333,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "流体与玻璃折射：用逼真的光影质感重塑数字产品的空间定调。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "d0e3da5e-b58d-43a4-9cc8-b66b9b5a33e7",
@@ -11585,7 +12372,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-adk11i0-playful-delete-interaction",
@@ -11623,7 +12411,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-hdnfjhp-css-coin-hover-effects",
@@ -11661,7 +12450,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "仪式感引导：通过层级揭示，降低高价值动作的认知负荷。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-3jt64ox-aave-borrow-ui",
@@ -11699,7 +12489,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-lvc6v0m-savee-weekly-editorial-showcase",
@@ -11737,7 +12528,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "dea86cf0-b216-40bf-9507-f7caed379498",
@@ -11775,7 +12567,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-r02vgi2-iml300-student-roster-site",
@@ -11813,7 +12606,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-0eu19hv-animated-mascot",
@@ -11851,7 +12645,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-hvnrid0-metal-shader-usage-counter",
@@ -11889,7 +12684,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-93kbizj-aave-savings-calculator",
@@ -11927,7 +12723,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-3c42eif-30-japanese-typography-studies",
@@ -11965,7 +12762,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-hl5zmuz-personal-site-hero",
@@ -12003,7 +12801,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-pmlxfjn-survive-particle-animation",
@@ -12041,7 +12840,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-t0cseav-aave-layered-security",
@@ -12079,7 +12879,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把传统的繁琐录入，转变为极具电影开场感的入场仪式。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-f0on194-analog-collage-series",
@@ -12117,7 +12918,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-hu2ua6e-portfolio-in-flow-state",
@@ -12155,7 +12957,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-utgnuzv-edge-magazine-cover",
@@ -12193,7 +12996,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "着色器算法与真实渲染：数字质感对用户感官的强力占领。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-98038g8-capwords",
@@ -12231,7 +13035,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-tvq5zr2-neos-app-icon-variants",
@@ -12269,7 +13074,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "打破平面的镜头纵深：让三维物理在浏览器中自由呼吸。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-j303jun-3-logos",
@@ -12307,7 +13113,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-3mvhicv-figure-mark-collection",
@@ -12345,7 +13152,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "色彩的情绪隐喻：用冷暖对比无声传递品牌的高级克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-5931n3z-brightfield-brand-identity",
@@ -12383,7 +13191,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-cphbphe-jello-button-microinteraction",
@@ -12421,7 +13230,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "重力感与视差滚动：打造身临其境的交互叙事剧场。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-xw8nb2o-teenage-engineering-product-design",
@@ -12459,7 +13269,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把传统的繁琐录入，转变为极具电影开场感的入场仪式。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ys7gaya-sticker-peel-off-effect",
@@ -12497,7 +13308,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-f48nw0l-credits-stepper-microinteraction",
@@ -12535,7 +13347,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-v4ggrgh-wild-craft-site",
@@ -12573,7 +13386,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-pao36ma-quartr-brand-mark",
@@ -12611,7 +13425,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "设计工程师的审美护城河：将经典平面语法注入现代前端代码。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-laxfofo-quartr-brand-posters",
@@ -12649,7 +13464,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把传统的繁琐录入，转变为极具电影开场感的入场仪式。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-jl10434-codex-code-review-ui",
@@ -12687,7 +13503,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ufbu9sj-anthrogen-labs-poster-series",
@@ -12725,7 +13542,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "色彩的情绪隐喻：用冷暖对比无声传递品牌的高级克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-4gdft20-animated-banner-variants",
@@ -12763,7 +13581,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-2022v1l-animated-app-icon",
@@ -12801,7 +13620,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "仪式感引导：通过层级揭示，降低高价值动作的认知负荷。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-usjw7kb-workos-cd-case-mockups",
@@ -12839,7 +13659,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ir7b2ou-anthrogen-micrographics",
@@ -12877,7 +13698,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ktzp1pw-artifacts-june-26",
@@ -12915,7 +13737,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "2da0c04d-a880-4009-822d-14c939af349e",
@@ -12953,7 +13776,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-tjp1zyb-live-data-loading-animation",
@@ -12991,7 +13815,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-nnkaerr-skewed-adjacent-hover-tabs",
@@ -13029,7 +13854,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-9v93bo5-aave-auto-saver-flow",
@@ -13067,7 +13893,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-59xrdmt-lego-dynamic-island",
@@ -13105,7 +13932,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-d9doaq0-terminal-app-icon",
@@ -13143,7 +13971,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "克制的留白与引导，让用户在3秒内进入心流状态。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "a98aada1-3267-4978-a5e2-7e238b6cdd21",
@@ -13181,7 +14010,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-y50644g-lovable-testflight-icons",
@@ -13219,7 +14049,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把传统的繁琐录入，转变为极具电影开场感的入场仪式。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-6op94z1-portfolio-site",
@@ -13257,7 +14088,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "第一幕的悬念感：用微物理动效化解新用户的初次抵触。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-jyrugbr-visual-diaries-vd01",
@@ -13295,7 +14127,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-eo2zyqk-iridescent-home-button",
@@ -13333,7 +14166,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-s3iaq1r-particle-cube",
@@ -13371,7 +14205,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-4x12djt-border-beam-ui",
@@ -13409,7 +14244,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "327520cb-a5c4-4cb7-8eab-af60df0a41ec",
@@ -13447,7 +14283,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-yrm537c-kinetic-tile-study",
@@ -13485,7 +14322,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-086yx2y-about-page-design",
@@ -13523,7 +14361,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "克制的留白与引导，让用户在3秒内进入心流状态。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-84iaorg-ring-mac-app",
@@ -13561,7 +14400,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-to1fo4d-vinyl-digging-app",
@@ -13599,7 +14439,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-nimhnp1-noa-poster-system",
@@ -13637,7 +14478,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "海报级排印美学：让每一个界面都具备可被框裱的艺术质感。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-6hm8w5s-brick-button",
@@ -13675,7 +14517,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-a5gma5e-connected",
@@ -13713,7 +14556,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-g53lpt4-audio-stem-section",
@@ -13751,7 +14595,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-fbp3782-veyronix-identity-system",
@@ -13789,7 +14634,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-qpuv91r-ramp-stack-campaign",
@@ -13827,7 +14673,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ekck88i-thinking-states",
@@ -13865,7 +14712,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-zqjqaj3-card-onboarding-ui",
@@ -13903,7 +14751,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "克制的留白与引导，让用户在3秒内进入心流状态。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-m51ac3f-logo-mark-study",
@@ -13941,7 +14790,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "设计工程师的审美护城河：将经典平面语法注入现代前端代码。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-a6vrl2b-portrait-poster-series",
@@ -13979,7 +14829,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-nr46ccm-framer-folders",
@@ -14017,7 +14868,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "第一幕的悬念感：用微物理动效化解新用户的初次抵触。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-s3vdak3-typography-series",
@@ -14055,7 +14907,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-n2vc3b4-object-detector-shader",
@@ -14093,7 +14946,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "着色器算法与真实渲染：数字质感对用户感官的强力占领。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-bujkuct-wild-week-poster",
@@ -14131,7 +14985,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "设计工程师的审美护城河：将经典平面语法注入现代前端代码。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-slwg0ri-minimal-invoice-design",
@@ -14169,7 +15024,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-sthlbzr-frozen-card-concept",
@@ -14207,7 +15063,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-dpvtpho-netflix-aims-identity",
@@ -14245,7 +15102,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "3c04a280-7518-4df8-b0c1-bce19d6df48d",
@@ -14283,7 +15141,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "克制的留白与引导，让用户在3秒内进入心流状态。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-1w1flrs-scribble-camera-ui",
@@ -14321,7 +15180,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-9ufb2j9-page-curl-demo",
@@ -14359,7 +15219,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "字阶之间的张力与叙事，构成了产品的精神骨相。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-llz48sy-visual-stepper-demo",
@@ -14397,7 +15258,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-79aiioi-connection-signal",
@@ -14435,7 +15297,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "契约式交互：将数字签名打造成用户与产品间的庄严契约。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-eq54zcc-living-letters",
@@ -14473,7 +15336,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-requ47g-galaxy-system",
@@ -14511,7 +15375,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "设计工程师的审美护城河：将经典平面语法注入现代前端代码。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-793rg17-gradient-collection",
@@ -14549,7 +15414,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-24dlm62-jarvie-brand-system",
@@ -14587,7 +15453,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-el0qw5a-trippy-waitlist-reveal",
@@ -14625,7 +15492,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-9rilb9z-voice-settings-ui",
@@ -14663,7 +15531,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-d0q7bmx-planet-select-motion",
@@ -14701,7 +15570,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-jwogjse-boost-post-ui",
@@ -14739,7 +15609,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-5jcqg0y-calculating-burst",
@@ -14777,7 +15648,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-gb11uv7-iridescent-button-motion",
@@ -14815,7 +15687,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-l6ckg0o-honk-onboarding",
@@ -14853,7 +15726,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "克制的留白与引导，让用户在3秒内进入心流状态。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-wurg7y9-virtual-card-ui",
@@ -14891,7 +15765,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ob2i8co-refracted-type-motion",
@@ -14929,7 +15804,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "字阶之间的张力与叙事，构成了产品的精神骨相。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-cvhuzrl-wavy-carousel",
@@ -14967,7 +15843,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-b95vlq2-kinetic-letterform",
@@ -15005,7 +15882,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-upoe7c0-app-icon-set",
@@ -15043,7 +15921,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "克制的留白与引导，让用户在3秒内进入心流状态。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-vxckqhk-spatial-depth-effect",
@@ -15081,7 +15960,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-qfr9bhg-nike-design-annual",
@@ -15119,7 +15999,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把传统的繁琐录入，转变为极具电影开场感的入场仪式。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-r36dnfb-map-discovery-app",
@@ -15157,7 +16038,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-idm4pun-system-studies",
@@ -15195,7 +16077,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-9cwgtef-industrial-modernization",
@@ -15233,7 +16116,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-4v43t3i-framer-ai-sidebar",
@@ -15271,7 +16155,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-z0eie9v-trestle-inc",
@@ -15309,7 +16194,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-2elj01x-ticket-reveal",
@@ -15347,7 +16233,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-bp32wr8-out-of-place",
@@ -15385,7 +16272,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "色彩的情绪隐喻：用冷暖对比无声传递品牌的高级克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-mfayb35-liquid-glass-ui",
@@ -15423,7 +16311,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "着色器算法与真实渲染：数字质感对用户感官的强力占领。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-tt8zwxi-compass-icon-ios-27",
@@ -15461,7 +16350,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "仪式感引导：通过层级揭示，降低高价值动作的认知负荷。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-76whu69-natured-headlines",
@@ -15499,7 +16389,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把传统的繁琐录入，转变为极具电影开场感的入场仪式。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-odkvopa-topographic-lines",
@@ -15537,7 +16428,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-h0xhuv4-css-count-up-animations",
@@ -15575,7 +16467,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "色彩的情绪隐喻：用冷暖对比无声传递品牌的高级克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-7ko9qpp-six-bespoke-typefaces",
@@ -15613,7 +16506,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "视觉叙事的锚点：用强烈的图形符号在用户心智中深深盖章。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-nr8sfrh-typography-11-20",
@@ -15651,7 +16545,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-x6y67l6-immersive-ar-typography-exploration",
@@ -15689,7 +16584,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-6cz6i4i-airbrush-typography",
@@ -15727,7 +16623,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-c6vkvqy-woven-generative-typeface",
@@ -15765,7 +16662,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "色彩的情绪隐喻：用冷暖对比无声传递品牌的高级克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-egiqsjf-slot-text-motion-library",
@@ -15803,7 +16701,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "视觉叙事的锚点：用强烈的图形符号在用户心智中深深盖章。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-00aws7d-slot-text-animation-library",
@@ -15841,7 +16740,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-4gt05vk-dialkit-1-3",
@@ -15879,7 +16779,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把传统的繁琐录入，转变为极具电影开场感的入场仪式。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-yufcmz0-flames-in-glass",
@@ -15917,7 +16818,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "流体与玻璃折射：用逼真的光影质感重塑数字产品的空间定调。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-3kayfk3-make-interfaces-feel-better",
@@ -15955,7 +16857,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-qnarorr-turboclaim",
@@ -15993,7 +16896,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-y9t3t04-sticker-01-50",
@@ -16031,7 +16935,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "仪式感引导：通过层级揭示，降低高价值动作的认知负荷。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-vcivv1x-realistic-page-turn",
@@ -16069,7 +16974,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-25nrh9v-flame-in-a-glass",
@@ -16107,7 +17013,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "流体与玻璃折射：用逼真的光影质感重塑数字产品的空间定调。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-garicnm-agentmail-brand-identity",
@@ -16145,7 +17052,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-q4dp7o4-lil-guys-app-icons",
@@ -16183,7 +17091,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "克制的留白与引导，让用户在3秒内进入心流状态。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-j7bjpwq-goodflix",
@@ -16221,7 +17130,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-9m51f1y-button-pile",
@@ -16259,7 +17169,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-finw3p9-framer-3-0-icons",
@@ -16297,7 +17208,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "第一幕的悬念感：用微物理动效化解新用户的初次抵触。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-sjiaq5j-holographic-ticket",
@@ -16335,7 +17247,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "契约式交互：将数字签名打造成用户与产品间的庄严契约。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-b2j86jc-iridescent-foil-effect",
@@ -16373,7 +17286,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-trh860p-gooey-letter-morph",
@@ -16411,7 +17325,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-k90fmqh-tacit-labs-brand",
@@ -16449,7 +17364,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "字阶之间的张力与叙事，构成了产品的精神骨相。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-44isz13-ai-data-mesh",
@@ -16487,7 +17403,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-jotjvo7-css-hover-reveal",
@@ -16525,7 +17442,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "契约式交互：将数字签名打造成用户与产品间的庄严契约。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-a58atg5-leading-and-measure",
@@ -16563,7 +17481,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-2891q5f-bmrks-cmdk-oklch",
@@ -16601,7 +17520,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "仪式感引导：通过层级揭示，降低高价值动作的认知负荷。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-d1hsofz-henry-labs",
@@ -16639,7 +17559,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-8xteq7j-credit-card-concept",
@@ -16677,7 +17598,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-rpngpoy-creative-reference-library",
@@ -16715,7 +17637,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-hkdxzbf-guillaume-portfolio",
@@ -16753,7 +17676,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "视觉叙事的锚点：用强烈的图形符号在用户心智中深深盖章。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-k30jz40-logo-collection",
@@ -16791,7 +17715,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-44itrhx-caption-controls-ui",
@@ -16829,7 +17754,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-n07wljf-framer-ask-me",
@@ -16867,7 +17793,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ph5hzie-wabi",
@@ -16905,7 +17832,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-x3z61z8-wip-logo",
@@ -16943,7 +17871,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "视觉叙事的锚点：用强烈的图形符号在用户心智中深深盖章。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-9c2gwkn-spring-animation-navigation-ui",
@@ -16981,7 +17910,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-zek7cpj-means-methods",
@@ -17019,7 +17949,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把传统的繁琐录入，转变为极具电影开场感的入场仪式。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-xb5b2cn-homemade-birthday-invite",
@@ -17057,7 +17988,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-i7wow0d-ando",
@@ -17095,7 +18027,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-wjze8tp-noble-machines-rebrand",
@@ -17133,7 +18066,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "视觉叙事的锚点：用强烈的图形符号在用户心智中深深盖章。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-om75ghd-doron-supply-rebrand",
@@ -17171,7 +18105,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "设计工程师的审美护城河：将经典平面语法注入现代前端代码。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-olaobds-atlas-for-iphone",
@@ -17209,7 +18144,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-p19o2pw-knicks-championship-posters",
@@ -17247,7 +18183,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "海报级排印美学：让每一个界面都具备可被框裱的艺术质感。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-npgxz8v-studio-seven-agency-archive",
@@ -17285,7 +18222,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-vrioaas-portal-dither-study",
@@ -17323,7 +18261,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-i2qnivc-folio-site-layouts",
@@ -17361,7 +18300,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-kgpcnbr-stap-cc-mobile-app",
@@ -17399,7 +18339,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-3gfph72-framer-3-0",
@@ -17437,7 +18378,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-9cl5xr5-app-icons",
@@ -17475,7 +18417,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "契约式交互：将数字签名打造成用户与产品间的庄严契约。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-69azqa8-framer-3-0-teaser",
@@ -17513,7 +18456,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-cmvv5l1-recent-logos-collection",
@@ -17551,7 +18495,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "设计工程师的审美护城河：将经典平面语法注入现代前端代码。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-9ngpa7v-good-air-india",
@@ -17589,7 +18534,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-u2g5him-cyanotype-fish-vortex",
@@ -17627,7 +18573,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-8827h55-ios-27-siri-animation",
@@ -17665,7 +18612,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-vw0jxf0-siri-on-apple-vision-pro",
@@ -17703,7 +18651,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "悬停状态的戏剧高潮：以微妙的光泽位移指引视线焦点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-r01g0hc-curved-browser-tabs",
@@ -17741,7 +18690,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机协作新范式：将繁琐的Prompt输入重构为无缝的手势对话。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ovghzcw-cursor-compile-26",
@@ -17779,7 +18729,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-o7r25ux-stampstack",
@@ -17817,7 +18768,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-o0xdpho-patch",
@@ -17855,7 +18807,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-k3r5u5k-milana-app-icon",
@@ -17893,7 +18846,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "克制的留白与引导，让用户在3秒内进入心流状态。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ci0kue8-family-inspired-trash-interaction",
@@ -17931,7 +18885,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-s6itzal-interfaces-stamp-card-builder",
@@ -17969,7 +18924,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把传统的繁琐录入，转变为极具电影开场感的入场仪式。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ltfrzqh-creature-app-icon-explorations",
@@ -18007,7 +18963,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "第一幕的悬念感：用微物理动效化解新用户的初次抵触。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-log5nr0-spcx-logo-warp-speed",
@@ -18045,7 +19002,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-a3ydqaw-a-happier-404-state",
@@ -18083,7 +19041,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "克制的留白与引导，让用户在3秒内进入心流状态。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ze7i7wm-spacex-ipo-posters",
@@ -18121,7 +19080,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "设计工程师的审美护城河：将经典平面语法注入现代前端代码。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-l0jwq9m-card-component",
@@ -18159,7 +19119,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把传统的繁琐录入，转变为极具电影开场感的入场仪式。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-zgannql-omou-stamp-characters",
@@ -18197,7 +19158,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-yd3atiy-highlighters",
@@ -18235,7 +19197,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-hn3uksb-stamps-brand-identity",
@@ -18273,7 +19236,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "视觉叙事的锚点：用强烈的图形符号在用户心智中深深盖章。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-wt4nuxb-timeframe-slider",
@@ -18311,7 +19275,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-ults62t-ios-27-emergency-sos-slider",
@@ -18349,7 +19314,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-prkf39n-photo-library-into-mosaic-art",
@@ -18387,7 +19353,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "多模态心流对话：用有机光球与微动效传递 Agent 的思考过程。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-sfm76e1-markie-dropdown",
@@ -18425,7 +19392,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-q4bjxh6-composio-electric-brand-system",
@@ -18463,7 +19431,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "视觉叙事的锚点：用强烈的图形符号在用户心智中深深盖章。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-tdlct6a-moodboard-animation",
@@ -18501,7 +19470,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-cw2vnxt-folder-animation-in-framer",
@@ -18539,7 +19509,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-mlulao4-new-sf-symbols-icon-set",
@@ -18577,7 +19548,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "第一幕的悬念感：用微物理动效化解新用户的初次抵触。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-0fvzm3h-salmon-typography",
@@ -18615,7 +19587,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "色彩的情绪隐喻：用冷暖对比无声传递品牌的高级克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-sm4t2bq-vercel-agent-snake",
@@ -18653,7 +19626,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-o5zj037-aave-graph-markers",
@@ -18691,7 +19665,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-cqmicuo-custom-ad-library-interface",
@@ -18729,7 +19704,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "人机共存的呼吸态：让 AI 从无形的代码变为可感知的情绪实体。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-oobmd44-glimm-documentation-site",
@@ -18767,7 +19743,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "流体与玻璃折射：用逼真的光影质感重塑数字产品的空间定调。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "rd-z52y4qn-juniq-brand-identity",
@@ -18805,7 +19782,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "跨越恐怖谷：赋予生成式界面以恰到好处的人性化克制。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "41197365-4b1b-4450-80ab-3e865cd64765",
@@ -18843,7 +19821,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "克制的留白与引导，让用户在3秒内进入心流状态。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "a3d5d401-21f9-4600-9d2d-dfed4ea23e75",
@@ -18881,7 +19860,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "极简表象下的微动力学，这是产品人能给用户的极致微爽点。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "26899fbd-a926-4976-936b-3c388a8b0af4",
@@ -18919,7 +19899,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "396df2dc-95e7-43c4-af91-1ab7966332d3",
@@ -18957,7 +19938,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "第一幕的悬念感：用微物理动效化解新用户的初次抵触。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "a79be51e-0537-4187-be7d-b7c2ac4a4a07",
@@ -18995,7 +19977,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "e8c620eb-e70d-47cc-a844-f28bd4ce58cf",
@@ -19033,7 +20016,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "意图预判式交互：在用户动念之前，界面已完成了优雅演进。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "629ce8e3-2f7a-4e3f-a542-92e600acc15a",
@@ -19071,7 +20055,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "仪式感引导：通过层级揭示，降低高价值动作的认知负荷。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "37c63b31-5369-40bb-9df8-37e472a0a4de",
@@ -19109,7 +20094,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "交互潜台词：每一次点击，都应当获得即时而温润的物理微反馈。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "ea58336a-eeb7-4186-9631-9a9f80d8b692",
@@ -19147,7 +20133,8 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "用非线性缓动与弹性形变，赋予冰冷UI真实的生命张力。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   },
   {
     "id": "cd256f3a-9636-4d04-8b90-b7fd2fe1df58",
@@ -19185,6 +20172,7 @@
       "friction": "传统设计容易落入平庸或过度动效的陷阱，导致认知负荷过重。",
       "solution": "把等待变成观赏：通过微状态机化解加载焦虑。",
       "soWhat": "将交互从「能用」升维为「动人」，直接提升产品核心行为的留存与口碑传播率。"
-    }
+    },
+    "isToday": false
   }
 ]

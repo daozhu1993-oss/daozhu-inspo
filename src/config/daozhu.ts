@@ -6,14 +6,14 @@ export const ACTS: ActMeta[] = [
     actNumber: 'ALL',
     nameZh: '全部设计',
     nameEn: 'All Design',
-    desc: '全库 498 个精选交互与微动效案例全览'
+    desc: '全库 508 个精选交互与微动效案例全览'
   },
   {
     id: 'today',
     actNumber: 'NEW',
-    nameZh: '✨ 今日上新 · 9月7日 (8)',
+    nameZh: '✨ 今日上新 · 9月10日 (10)',
     nameEn: 'Today\'s Drops',
-    desc: '2026年9月7日 今日精选收录 8 个多维筛选器、动态字阶、网格打破与空间宝箱分镜'
+    desc: '2026年9月10日 今日精选 Cue 顶级 Awwwards UI 特辑：收录 10 个登机牌刷卡验真、粘性流体拨盘、3D气泡物理、真空仪表盘与多智能体意图审批分镜'
   },
   {
     id: 'act1',
