@@ -1,5 +1,36 @@
 [
   {
+    "id": "daozhu-lighthouse-boarding",
+    "slug": "daozhu-lighthouse-boarding",
+    "title": "数字群岛 · 灯亮了，船才出发",
+    "category": "Web",
+    "creatorName": "岛主",
+    "description": "从拨动灯塔拉杆，到坐船选择下一座岛。",
+    "sourceUrl": "https://www.daozhuai.cn/islands/voyage/",
+    "isVideo": true,
+    "videoSrc": "/studies/lighthouse.mp4",
+    "poster": "/studies/lighthouse.jpg",
+    "aspectW": 1000,
+    "aspectH": 650,
+    "media": [
+      {
+        "type": "video",
+        "src": "/studies/lighthouse.mp4",
+        "poster": "/studies/lighthouse.jpg",
+        "alt": "港口观察室亮灯，访客登船驶向港口"
+      }
+    ],
+    "takeNumber": 509,
+    "act": "act1",
+    "subtext": "开灯前，登船键是灰的。拉杆拨下，窗外变亮，原先灰着的按钮也能按了。注意这两个变化发生的顺序。",
+    "breakdown": {
+      "objective": "让第一次到访的人亲手开启航程。",
+      "friction": "访客面对六座岛，进场时需要一个能看懂的动作。",
+      "solution": "拨杆改变场景亮度，也解锁登船。",
+      "soWhat": "反馈可以发生在作品内部。读者看见灯亮，就能明白自己的动作生效了。"
+    }
+  },
+  {
     "id": "drop-20260910-01",
     "slug": "portfolio-boarding-pass-swipe-scanner",
     "title": "Portfolio Boarding Pass Swipe & Scanner",

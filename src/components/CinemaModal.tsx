@@ -33,6 +33,7 @@ export const CinemaModal: React.FC<CinemaModalProps> = ({
   isSaved,
   onToggleSave,
 }) => {
+  const [unavailableSrc, setUnavailableSrc] = useState<string | null>(null);
   const [slideIndex, setSlideIndex] = useState(0);
 
   const currentIndex = posts.findIndex((p) => p.id === post.id);
@@ -99,9 +100,15 @@ export const CinemaModal: React.FC<CinemaModalProps> = ({
       <div className="relative z-10 flex h-full max-h-[92dvh] w-full max-w-6xl flex-col lg:flex-row overflow-hidden rounded-2xl border border-white/10 bg-obsidian-900 shadow-modal-glow">
         {/* Left Screen: Cinema Projection Area */}
         <div className="relative flex min-h-[300px] sm:min-h-[420px] lg:min-h-0 flex-1 items-center justify-center bg-black overflow-hidden">
-          {currentMedia.type === 'video' ? (
+          {unavailableSrc === currentMedia.src ? (
+            <div className="max-w-sm p-6 text-center text-sm leading-relaxed text-zinc-300">
+              <p>此案例的预览媒体暂时无法加载。</p>
+              {post.sourceUrl && <a className="mt-3 inline-block text-amber-400 underline" href={post.sourceUrl} target="_blank" rel="noopener noreferrer">到作者原帖看作品 ↗</a>}
+            </div>
+          ) : currentMedia.type === 'video' ? (
             <video
               src={currentMedia.src}
+              onError={() => setUnavailableSrc(currentMedia.src)}
               poster={currentMedia.poster || undefined}
               autoPlay
               muted
@@ -113,6 +120,7 @@ export const CinemaModal: React.FC<CinemaModalProps> = ({
           ) : (
             <img
               src={currentMedia.src}
+              onError={() => setUnavailableSrc(currentMedia.src)}
               alt={post.title}
               className="max-h-[85dvh] w-full object-contain"
             />

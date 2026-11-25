@@ -20,6 +20,7 @@ export const StoryboardCard: React.FC<StoryboardCardProps> = ({
   priority = false,
 }) => {
   const videoRef = useRef<HTMLVideoElement>(null);
+  const [mediaUnavailable, setMediaUnavailable] = useState(false);
   const [avatarErr, setAvatarErr] = useState(false);
 
   const primaryMedia = post.media[0];
@@ -96,10 +97,16 @@ export const StoryboardCard: React.FC<StoryboardCardProps> = ({
           style={{ aspectRatio }}
           className="relative block w-full overflow-hidden bg-black text-left cursor-pointer focus:outline-none"
         >
-          {isVideo && videoSrc ? (
+          {mediaUnavailable ? (
+            <span className="absolute inset-0 flex flex-col justify-center gap-3 bg-obsidian-900 px-5 text-left">
+              <span className="font-medium leading-snug text-zinc-200">{post.title}</span>
+              <span className="text-xs text-amber-400">阅读导演批注 →</span>
+            </span>
+          ) : isVideo && videoSrc ? (
             <video
               ref={videoRef}
               src={videoSrc}
+              onError={() => setMediaUnavailable(true)}
               poster={posterSrc || undefined}
               muted
               loop
@@ -110,6 +117,7 @@ export const StoryboardCard: React.FC<StoryboardCardProps> = ({
           ) : (
             <img
               src={primaryMedia?.src || posterSrc || ''}
+              onError={() => setMediaUnavailable(true)}
               alt={post.title}
               loading={priority ? 'eager' : 'lazy'}
               decoding="async"
