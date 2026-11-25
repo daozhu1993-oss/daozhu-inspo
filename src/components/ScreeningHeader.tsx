@@ -36,10 +36,10 @@ export const ScreeningHeader: React.FC<ScreeningHeaderProps> = ({
 }) => {
   return (
     <header className="sticky top-0 z-40 w-full border-b border-white/[0.08] bg-obsidian-950/95 backdrop-blur-xl transition-colors">
-      <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-3 sm:px-6 lg:px-8 gap-2 sm:gap-4">
+      <div className="mx-auto flex flex-wrap py-2 min-[960px]:flex-nowrap min-[960px]:h-16 max-w-7xl items-center justify-between px-3 sm:px-6 lg:px-8 gap-2 sm:gap-4">
         
         {/* Left: Brand Identity */}
-        <div className="flex items-center gap-3 xl:gap-5 shrink-0 min-w-0">
+        <div className="flex w-full items-center justify-between gap-3 md:w-auto xl:gap-5 shrink-0 min-w-0">
           <button
             type="button"
             onClick={() => onTabChange('storyboards')}
@@ -62,6 +62,17 @@ export const ScreeningHeader: React.FC<ScreeningHeaderProps> = ({
               </p>
             </div>
           </button>
+
+          <select
+            aria-label="浏览栏目"
+            className="md:hidden rounded-lg bg-zinc-900 text-zinc-200 p-2 text-xs"
+            value={currentTab}
+            onChange={(event) => onTabChange(event.target.value as typeof currentTab)}
+          >
+            <option value="storyboards">精选设计</option>
+            <option value="tools">设计利器</option>
+            <option value="skills">UI 技能</option>
+          </select>
 
           {/* Navigation Tabs - Modern Segmented Control */}
           <nav className="hidden md:flex items-center p-1 rounded-xl bg-white/[0.04] border border-white/[0.08] shrink-0">
@@ -107,7 +118,7 @@ export const ScreeningHeader: React.FC<ScreeningHeaderProps> = ({
         </div>
 
         {/* Right Controls */}
-        <div className="flex items-center gap-2 sm:gap-2.5 shrink-0">
+        <div className="flex w-full items-center gap-2 min-[960px]:w-auto min-[960px]:gap-2.5">
           {/* Director Commentary Mode Toggle */}
           <button
             type="button"
@@ -127,10 +138,11 @@ export const ScreeningHeader: React.FC<ScreeningHeaderProps> = ({
           </button>
 
           {/* Quick Search */}
-          <div className="relative flex items-center w-28 sm:w-36 md:w-44 lg:w-52 shrink-0">
+          <div className="relative flex min-w-0 flex-1 items-center min-[960px]:w-44 min-[960px]:flex-none lg:w-52">
             <Search className="absolute left-2.5 size-3.5 text-zinc-500 pointer-events-none shrink-0" />
             <input
               type="text"
+              aria-label="搜索设计或作者"
               placeholder="搜索设计、作者..."
               value={searchQuery}
               onChange={(e) => onSearchChange(e.target.value)}
@@ -169,6 +181,7 @@ export const ScreeningHeader: React.FC<ScreeningHeaderProps> = ({
           {/* About Director Drawer Trigger */}
           <button
             type="button"
+            aria-label="关于岛主"
             onClick={onOpenDirectorDrawer}
             className="flex items-center gap-1.5 sm:gap-2 px-2.5 py-1.5 rounded-lg bg-white/[0.04] hover:bg-white/[0.08] border border-white/[0.08] text-zinc-300 hover:text-white transition-all text-[12px] whitespace-nowrap shrink-0 cursor-pointer"
           >
